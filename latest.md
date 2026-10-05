@@ -1,34 +1,52 @@
-# News Digest — Sunday, 4 October 2026
+# News Digest — 5 October 2026
 
-*Covers the last 24 hours. The BBC Business feed had nothing newer than 24 hours, so it's left out today.*
+## Top 10
 
-## Top 5
-
-1. **Latvia's ruling party wins the election.** The United List, led by Prime Minister Andris Kulbergs, came out ahead in Latvia's parliamentary vote, and she's on track to lead another pro-Ukraine coalition. Lithuanian outlets are covering it heavily; LRT says Kulbergs promised that "we're stronger than ever" and sent a message to Russia. Sources: [Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEJqb2xVc0JNb3BpTEJ1UjNNNm91MnJ0N0dWUUtraTRkUExEc1JwSlQybVdzLVY2TW5JODJ5elBTc3poVGJQUTdNek9QdUVEQjJyVkZlcUJOWXpneF9ZTmtacmg0dGpoVmhaV05iMEJza3ZaMW5BSzItbmF4TkItZDAyWi1BcmplczNzZXBvVDZKa252aThla3BmOEpyUFYwOEVqRw?oc=5), [LRT](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGtRUk9rb2laUjAtWWpOMUVVT0ZJbUFzRkkzaVZmQzBqbUxUNmpmdk1pdkIyNU9OSS1nczBfZGExYUNUNWJZVVNLelEwOUJrS1J6bVFRYjVRclQybWJyZ1p4X2dpVUR1SFdRMEdaa3F1U3N5bjEyWUxQMTQxTURBS25ZOFUtNFR0bVgyWGpRUExQdFFuYmxIR1U3Y1FUTFI2Y0l6ODJLdXVtdlBYTEV4UG1XMGZzQURUSXNWREpqUnVVYTNPTm40?oc=5)
-2. **Vilnius Airport briefly closed over an unidentified object.** Lithuania scrambled fighter jets after an object approached from Belarus, and the air alert has since been lifted. Sources: [TVP World](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnJhdUlGNnZDTEJJZkZYRFRWZmIyYXY5R0dxa0l1bXBJSHZrWG9vNmVvSkRkQi1mM0lIa1FIMG5leHZReWttRzc2a1U2aHJPNGRUOTNWdEwzM1NxczhORWVVemd0Z1lXV3I4dHNNQTJNRnktdWV3Rk5ZN2Z6eC1yNGkyVEJRangyclNMMVlRcUNSZkc3UVRMdDUwS25qOE5iSldHNUxQSQ?oc=5)
-3. **Germany's Merz visits Kyiv as Russia vows more strikes.** Chancellor Friedrich Merz arrived to air-raid sirens and explosions. Moscow says it will keep up massive attacks on the city and urged foreign diplomats to leave. Sources: [Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5uMWs0WVBmQnlBRXQ4Wk9IdU1jOEthZ0pQU1p4bUVTZzNOUi15YnBUMTVyZUNRaW9wVE5PQjhCbkRzSUZneHVPODY2STRpNV94c3dpNmUyckh3WU1WS1d0Z2lPX2xDOTBHVERPcU5KMElxanNCVDQ0cTFjS3FYZFU0UnAwUmdxSS1ad1d4QjBmQ0IwdHNFMk5aSm83MWFKM2lfZl9RWW5wY1k?oc=5)
-4. **Italy's Intesa raises its bid for MPS, but warns it could walk away.** The bank lifted its offer price while saying it may drop the takeover. Sources: [Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHdRMU9vOENaaEdwWjJzTk9FaFlwUlV0ay04ZE9tdEdFOGhMT1pIR0VtWm5fR3RjU0NRVGVlTW9xbUZBV0o5RkRvZEQ2ZTJGNTFEMjJSY0d2dVlVOXdZSk03bWxEcGRuem5lS1l2b2hRS2hhUTNpdjJZU00tMTJMXzJYQnBYeFEzWmxmX1NFVndWUk1NRFJkTElwWXd5aGdldEM2VDN2S1U3SVpSa0RmUnhucW8yU2loV05sX3locw?oc=5)
-5. **Iran's rial hits a new low.** The central bank is selling dollars to prop up the currency. Sources: [Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnE1RzhlNDNiUXdROTBBZS1SaEExN2JJb1hNX1huaXl3TFcwVTBKWGVVRlJVQWpYdVdwMnZwLV9kMWpIMHV5UWZIc0ZVVVdjQ180RE9sTTRIUmp2R0JNY3h2MXlyVzBfZGFSbTFWd19QREdkYkwyOEN2Nl9Xcm9xOWg4VlNRQ3ZQRkN2T0JDU296UFpfTzlfS2Y0NV9RbFEydmdWOTEwUERyUnBZNUM2Y3c4MA?oc=5)
+1. Oil prices slipped as Middle East crude exports rose and the G7 agreed to release diesel and oil stocks after pressure from Washington. Reuters.
+2. OPEC+ agreed to keep its November oil output targets steady, while Saudi Arabia cut its November oil prices for Asia to six-year lows. Reuters.
+3. Markets are feeling calmer. Stocks were upbeat and gold gained as bets on an October Fed rate hike faded, though the dollar wobbled. Reuters.
+4. Latvia's prime minister is on track to lead a pro-Ukraine coalition after winning the election, with a record number of seats for his party. Reuters and 15min.
+5. German Chancellor Friedrich Merz visited Kyiv, announced fresh military aid, and told Vladimir Putin that talks are possible only once the strikes stop. Reuters and LRT.
+6. Ukraine says it has hit more than half of Russia's oil refining capacity, while Russia says it struck a bridge in Kyiv and two vessels in the Black Sea. 15min and Reuters.
+7. Lithuania's officials are responding to Kremlin nuclear threats over Kaliningrad. Foreign Minister Budrys warned there's a risk of being dragged into a war by mistake. Delfi and 15min.
+8. The US pulled B-1 bombers out of a UK base amid security concerns. Reuters and LRT.
+9. The Yemeni government has launched an offensive to retake areas held by the Iran-backed Houthis, and Iran says the Strait of Hormuz won't reopen until its conditions are met. Reuters.
+10. Lithuania lost 1–0 to Azerbaijan in the UEFA Nations League, their first defeat in the competition. LRT and ESPN.
 
 ## Lithuania
 
-- **Drones are a new puzzle for the Baltics.** Delfi reports that warning time for Russian drones can shrink from ten minutes to just three, which complicates air defence for the Baltic states. Source: [Delfi](https://news.google.com/rss/articles/CBMixAFBVV95cUxOanQ5T0g1M2NZZ2Q3MVRnRDltYng0T2lNekRUaTFMTkx2aWtBZlk4aHBRVkp0VWZqU29saGNhMWpLWXl3aUR1WmpNVmdpZS0zR3IzRDZzaWtPVk9DUVk0bHFuY0NhWV9KWnhsNjFUMDlCV3U1M3JPWjVGdTNtTTRiYjFmS2t6NXl0LUhTNlpNZlEzRjcxaGE0MWtwNUt4TzZBMG9RNkh1MkE0ZlpjYkd5UGlpa2kweXVmanBveDZpVHVOam1v?oc=5)
-- **Government backs the Multinational Corps Northeast convention.** The cabinet is asking parliament to ratify the convention on the NATO headquarters in Poland. Source: [15min](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2pBNWkyQTZabmtka1V0M0tCSC0tRGRyaGtjVVBsODM4V05FbmpOQUhYZGZhUmNBalFrWVdXWkVlTl90ZXdjMlVzZDdjdlNQUjZaTEZvS3J1VTAydnQya0pKSVZzbjhDZWVzaTB0RDRZZjJYcXI4c0k4bGtiNlNLM3d6RlFNZ0E1c1YwNEJLS0ZqUTZCNkVPUVR2SE4tZmY3LWgybnVQUWMzSkpJVlZBOTJoWGNlVFJYSkdLTGNvNmlHU2xWRWxhZ3B6eUNrWFRMZ1E?oc=5)
-- **Anti-migration protest in Vilnius.** Boxer Maslobojevas spoke at the rally with a firm message against immigration. Delfi and 15min also asked whether he plans to move from the ring into politics. Sources: [Delfi](https://www.delfi.lt), [15min](https://www.15min.lt)
-- **More speed cameras coming.** Lithuania will install 216 new cameras on its roads next year. Source: [Delfi](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmh4S240ME14UjVLWFNRZTFLU0RIdnp2dHlDeFJ2QlZQaXJLTlNSMGNJeDMwUHpkOWFFczFldTBNQ3p3ZWtxMHJNcjB3akdyU21lSXJqUGJiejZqN3VpR2oxWVNxUjlqeE9ENHVybVFvV3hIWF9GWVIzT1Y0RVJoS05lbENuQmhsUk5CQ3YyR1lWU25nRFhNdm1HbHBsa01wQVRkLWlpYw?oc=5)
-- **Budget pressure as a new government settles in.** Prime Minister Sinkevičius says growth is tracking 2.7–2.8% against a 3% plan, and that a balanced 2027 budget will be a big challenge, with October and November the critical months. This comes from a general web search and isn't date-stamped, so treat it as background. Source: [Respublika](https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/mindaugas-sinkevicius-tikisi-kad-vyriausybes-tikslai-bus-igyvendinami-remiantis-ekonomikos-augimu-ir-taupymu/)
-- **Football:** Lithuania played Azerbaijan in the UEFA Nations League today. Source: [BBC](https://www.bbc.com)
+- Lithuania plans to ban Russians and Belarusians from buying real estate near strategic facilities. Open4business.
+- Lithuanian leaders are talking about the Russian threat. Prime Minister Inga Ruginienė is travelling to Germany to discuss defence and economic cooperation, and President Gitanas Nausėda is in Italy and Greece to talk about Lithuania's upcoming presidency of the EU Council. 15min.
+- Fuel prices are expected to push up food costs too, and analysts warn of an expensive winter. Latvia cut fuel excise tax, but Lithuania says it won't follow. LRT.
+- Members of parliament are arguing over childcare benefits. Some proposals would pay up to 150 percent of a parent's salary. LRT.
+- The government is promising that pensions will rise. Delfi.
+- Delfi reports that new Baltic security worries are growing over Russian drones. Warning times could shrink from ten minutes to as little as three. Delfi.
+- SEB's exit from Russia has dragged on, because it still hasn't received Putin's signature. Delfi.
+- A new poll shows the ranking of Lithuania's most influential politicians. Delfi.
+- A ministry analysis says requiring a Lithuanian-language class in Russian-speaking schools would be risky. 15min.
+- A study finds innovative medicines deliver the highest return in Lithuania of any country in Europe. Delfi.
+- About 216 new cameras will be installed on Lithuanian roads next year to catch road-toll violations. LRT and Delfi.
+- Lithuania is also gaining ground in health tourism, with The Telegraph saying it is taking market share from Turkey. The Telegraph.
+- Poland and Lithuania's prime ministers haven't been in touch for too long, according to a political scientist. LRT.
+- The Bank of Lithuania will present a commemorative two-euro coin for Kaunas. Bank of Lithuania.
+- In Neringa, the mayor and his team are stepping down. Delfi.
 
 ## Markets & Economy
 
-- **Revolut's rise.** Reuters looks at how Revolut grew into a roughly $115 billion rival to Europe's big banks. Source: [Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uWVBZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5)
-- **Intesa and MPS.** The raised bid is the main European banking story of the weekend (see Top 5). Source: [Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHdRMU9vOENaaEdwWjJzTk9FaFlwUlV0ay04ZE9tdEdFOGhMT1pIR0VtWm5fR3RjU0NRVGVlTW9xbUZBV0o5RkRvZEQ2ZTJGNTFEMjJSY0d2dVlVOXdZSk03bWxEcGRuem5lS1l2b2hRS2hhUTNpdjJZU00tMTJMXzJYQnBYeFEzWmxmX1NFVndWUk1NRFJkTElwWXd5aGdldEM2VDN2S1U3SVpSa0RmUnhucW8yU2loV05sX3locw?oc=5)
-- **Iranian rial.** It fell to a record low (see Top 5). Source: [Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnE1RzhlNDNiUXdROTBBZS1SaEExN2JJb1hNX1huaXl3TFcwVTBKWGVVRlJVQWpYdVdwMnZwLV9kMWpIMHV5UWZIc0ZVVVdjQ180RE9sTTRIUmp2R0JNY3h2MXlyVzBfZGFSbTFWd19QREdkYkwyOEN2Nl9Xcm9xOWg4VlNRQ3ZQRkN2T0JDU296UFpfTzlfS2Y0NV9RbFEydmdWOTEwUERyUnBZNUM2Y3c4MA?oc=5)
-- **Trump names an AI czar.** The WSJ reports he picked intelligence chief Clayton to head an AI task force. Source: [Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5)
+- The dollar held firm as French fiscal worries kept the euro on the back foot. Reuters.
+- Markets are betting the Reserve Bank of India will raise rates as inflation pressure builds. Reuters.
+- Revolut has risen to become Europe's 115 billion dollar rival to the big banks. Reuters.
+- Schneider Electric is close to a roughly 20 billion dollar deal to buy US software group PTC, a source says. Reuters.
+- AkzoNobel will sell its Southeast Asia paints business to Nippon Paint for 1.35 billion dollars. Reuters.
+- Britain is set to put tariffs on Chinese electric cars, The Times reports. Reuters.
+- A strike by Apache workers could disrupt the Forties oil pipeline in the North Sea. Reuters.
+- European gas storage is filled to its lowest level in five years, according to the Bank of Lithuania. LRT.
+- Trump has unveiled a "Super Intelligence Force" to oversee AI policy, led by his national intelligence chief. BBC.
+- The BBC also looks at how India became dangerously reliant on Chinese imports. BBC.
 
 ## Crypto
 
-- **Clarity Act stalled, but dealmaking continues.** Bankers aren't hitting the brakes yet on crypto deals even though the US market-structure bill has stalled. Source: [CoinDesk](https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet)
-- **Crypto's next challenge is retention.** After years of building new products, the industry's problem is keeping users. Source: [CoinDesk](https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users)
-- **OpenPayd eyes a Nasdaq listing.** The payments firm is targeting a year-end IPO to fund US expansion and acquisitions. Source: [CoinDesk](https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions)
-- **Crypto hiring.** Job postings tripled to over 1,200 in September, but applications fell. Source: [CoinDesk](https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall)
+- Ether beat bitcoin in the third quarter, but the rally came with a catch: market liquidity thinned. CoinDesk.
+- The Clarity Act, the US crypto market-structure bill, has stalled, yet bankers aren't slowing down their crypto dealmaking. CoinDesk.
+- Crypto has spent years building new products, and the next challenge is keeping users. CoinDesk.
+- And there's a US election next month, which could shape crypto policy. CoinDesk.
