@@ -1,62 +1,51 @@
-# News Digest — Tuesday, 6 October 2026
+# News Digest — Wednesday, 7 October 2026
 
 ## Top 10
 
-1. Donald Trump says he will "certainly look at" setting up a US military base in Lithuania. It was reported by The Hill and 15min, and he also signalled he would study bases in Poland.
-2. Bond worries about France are rattling the euro. Reuters says the euro is hovering near a 17-month low, while the dollar is at an 18-month high.
-3. The Nasdaq closed at a record high as investors focused on earnings, according to Reuters. Even so, US Treasury yields are near multi-decade highs, and Reuters asks what Washington does if they keep rising.
-4. Lithuania's prime minister was in Berlin, telling German leaders that Lithuania will deliver on time the infrastructure for the German brigade stationed there. LRT and 15min both covered it.
-5. Lithuania's prime minister is also urging NATO to draw up a plan against Russia's hybrid attacks, Politico reports.
-6. Reports of a plague outbreak in Russia, with some hospitals quarantined, have drawn a reaction from the Kremlin. 15min and Delfi covered it. Treat these reports with some caution.
-7. Ukraine has knocked out more than half of Russia's oil refining capacity, 15min reports, and drones reportedly hit Moscow again overnight, Delfi says.
-8. BBC Business reports that the average five-year fixed mortgage rate in the UK has hit 6% for the first time in three years.
-9. BT has agreed a rescue deal to buy broadband provider TalkTalk, according to the BBC. The regulator still has to approve it.
-10. In crypto, bitcoin jumped toward 87 thousand dollars, close to an eight-month high, then slipped back, CoinDesk says. The US CFTC has also joined the SEC in proposing crypto rules.
+1. Lithuania's parliament has voted 106 to 18 in a first reading to lift the constitutional ban on nuclear weapons on its territory. The Kremlin warned of further escalation, according to Reuters and the Moscow Times.
+2. Lithuania says it would pay the cost if the United States builds a permanent military base in the country, after Donald Trump said he would consider the idea. Reuters, Bloomberg and LRT all covered it.
+3. The Seimas failed to muster enough votes to remove Laura Matjošaitytė from the Central Electoral Commission, so she stays in her post. LRT and 15min report that the ethics commission will now look at her possible undeclared ties with the head of the tax inspectorate.
+4. Oil prices rose again on storms, air strikes and fresh attacks on tankers near the Strait of Hormuz, according to Reuters. Asian shares were weaker as investors weighed the Saudi-Houthi escalation.
+5. The US EIA raised its oil price forecasts again, and executives told Reuters the world has nearly burned through its oil stockpile buffer because of the Iran war.
+6. Wall Street's S&P 500 and Nasdaq hit record closing highs, Reuters says, as attention turns to earnings. US software stocks also reached fresh 2026 highs as worries about AI disruption faded.
+7. Bitcoin is stuck in a range, struggling around 85 to 87 thousand dollars, and dipped below 84 thousand as oil jumped, CoinDesk reports. It is down about a third from last year's record of 126 thousand.
+8. Paramount has completed its takeover of Warner Bros. Discovery in a deal worth around 110 billion dollars, according to the BBC and LRT.
+9. Fears of a plague outbreak in Russia are making headlines. Donald Trump says he will speak with Vladimir Putin about it, and Rubio asked Moscow to share more information, according to Delfi, 15min and Reuters.
+10. Five current and former Orlen executives were detained in Poland over fuel prices, reported by Delfi and 15min.
 
 ## Lithuania
 
-- Trump says the US will "certainly look at" a military base in Lithuania. That comes alongside German-brigade preparations, which the Lithuanian PM says are on schedule, and a NATO push on hybrid threats. (The Hill, 15min, LRT, Politico)
-- Lithuania has warned that up to a million people could flee to Poland if war broke out, and the two countries are discussing how to receive them. (TVP World)
-- Lithuania is starting to build a Leopard 2A8 tank assembly and repair plant. (FW-MAG)
-- Lithuania has sent 253 tonnes of power equipment to Ukraine to help repair its grid after Russian attacks. (Yahoo, United24)
-- Europe is heading into winter with low gas stocks, but Lithuania says its supplies are secure. (LRT)
-- Amber Grid plans about 438 million euros of investment in Lithuania's gas network by 2035. (Energynews)
-- Lithuania has applied for EU funds to strengthen the Harmony Link power connection with Poland. (CEEnergynews)
-- Transport Minister Budrys says Lithuania will "manage" the dilemma over transit of Belarusian potash fertiliser. (15min)
-- A group of MPs including Savickas want fuel price changes shown in real time at petrol stations. (LRT)
-- Experts are debating a mandatory renovation scheme for old buildings, saying money is being lost through leaky roofs and windows. (LRT)
-- Staffing firm Blue Flight Workforce is asking competition authorities for approval to buy Biuro Baltic and 11 of its recruitment companies. (LRT)
-- INVL fund and Tesonet have completed the purchase of the Šiaurės Licėjus school and kindergarten network. (LRT)
-- Prosecutors have named four suspects over a Quran allegedly burned in Vilnius. (LRT)
-- Reports say Mindaugas Sinkevičius has made a decision about a senior post in the European Parliament. (15min)
-- Delfi reports that new airline passenger rules will affect everyone flying within the EU from next year.
-- Cosmetics brand KIKO Milano is opening its first Lithuanian shop at Akropolis in Vilnius. (Delfi, 15min)
-- Basketball: Žalgiris fined its American player Carsen Edwards over a disciplinary breach. (15min, LRT)
+- Lithuanian business is warning that planned limits on migration could cost the country millions of euros, and is asking for clear and stable rules. That's from LRT.
+- Lithuania's Competition Council has blocked the company MM Grupp from buying the Apollo cinema at Vilnius's Akropolis centre, LRT and Delfi report.
+- The president's proposals for a cap on daily fuel prices are now being discussed in a Seimas committee, according to 15min.
+- Economist Urbonaitė says she doesn't understand how budget planning works, as the hole in the budget deepens, reported by Delfi.
+- The Defence Ministry received 19 bids to build an airspace monitoring system, says LRT.
+- A 10 million euro programme will help small and medium-sized industrial firms in the regions develop technology, LRT reports.
+- Contraband drones from Belarus hit a record high in Lithuania, according to Belsat. Meanwhile, a group of migrants led by masked, armed men threatened soldiers on the Latvian border, 15min says.
+- President Nausėda met Italy's prime minister Giorgia Meloni in Rome, LRT reports.
+- Latvia's election was won by the party of prime minister Andris Kulbergs, and the president says he should form the next government, according to LRT.
+- Regitra reminds more than 70 thousand people that they must renew their driving licences by February, according to Delfi, 15min and LRT.
+- Delfi reports that train ticket prices are set to fall by half, and that one city's residents will pay noticeably more for heating.
+- Lithuania plans a 1.2 billion euro hydrogen transmission network by 2035, according to Enerdata.
 
 ## Markets & Economy
 
-- France's fiscal troubles are the main story in Europe. French stocks fell even as the wider STOXX 600 rose on strong banks, and the Canadian dollar hit an 18-month low as the greenback rose. (Reuters)
-- Wall Street bulls are talking about "S&P 10,000." Strategists at Panmure Liberum take the opposite view and see the S&P 500 falling to 5,000. (Reuters)
-- Brazil's stock exchange hit a record after Bolsonaro came out ahead in the first round of the election. (Reuters)
-- The Bank for International Settlements chief warns that soaring debt could complicate the response to a future crisis. (Reuters)
-- Central bankers say gold keeps its reserve status despite surging bond yields. (Reuters)
-- Taiwan's Foxconn beat forecasts with third-quarter revenue, thanks to AI demand. (Reuters)
-- The ECB's Nagel says high inflation hasn't yet triggered second-round effects. (Reuters)
-- UK services firms report a surge in costs and are raising prices, according to PMI data. (Reuters)
-- Carlsberg is buying PepsiCo's bottlers in Georgia and Armenia. (Reuters)
-- Huawei and Qualcomm have signed a multi-year patent licensing deal. (Reuters)
-- India's stock market is sinking even as its economy grows. (BBC)
-- A Pentagon "supply chain risk" label has led it to stop using Anthropic's AI tools. (BBC)
-- German robotics startup RobCo is now valued at 1 billion dollars. (Reuters)
-- Oil executives say the oil market turmoil could last for years. (Reuters)
+- European shares rose as falling bond yields and softer oil boosted appetite for risk, Reuters says. London stocks also gained, helped by easing gilt yields.
+- Gold edged lower as traders waited for Fed minutes, according to Reuters. Fed official Daly said the need for more rate hikes depends on what happens with shocks.
+- The Bank of England's Catherine Mann says high inflation has become embedded in Britain, Reuters reports. The ECB's Lane says he's not seeing strong second-round inflation effects.
+- The Bank of Japan may signal that underlying inflation has hit its 2 percent goal, sources told Reuters.
+- Spain's housing crisis is in the spotlight ahead of a snap election, and France's BPCE has taken a 7 percent stake in Sabadell, according to Reuters.
+- Big deals: Informa will buy Clarion from Blackstone for 2.24 billion pounds, and SpaceX is seeking 40 billion dollars of financing led by Apollo to buy Nvidia chips, says Reuters.
+- AI is reshaping jobs: Norway's DNB will cut around 400 staff and FICO is cutting 15 percent of its workforce, according to Reuters. DeepSeek is set to raise more than 12 billion dollars, a source says.
+- Google signed a 3.6 gigawatt power deal with Constellation Energy, while Finland ordered a halt to work on two Google data centres, reported by Reuters and the BBC.
+- UK oil and gas firm Equinor warns Britain risks being "uninvestable" if new fields aren't approved, says the BBC.
+- Asos confirmed hackers sent an unauthorised notification to app users, according to the BBC.
 
 ## Crypto
 
-- Bitcoin rose toward 87 thousand dollars, nearly an eight-month high, then reversed. A stronger dollar and rising rates are weighing on it. (CoinDesk)
-- Japan's Metaplanet added 1,000 bitcoin in the third quarter, bringing its holdings to 44,000. (CoinDesk)
-- The SEC has approved a three-times leveraged product for bitcoin and ether traders. (CoinDesk)
-- The US CFTC has joined the SEC in proposing crypto rules, though a gap on spot markets remains. (CoinDesk, Reuters)
-- A joint venture of OKX and the New York Stock Exchange's parent, ICE, has filed for round-the-clock tokenized US stock trading. And more than 60 US stocks, including Nvidia and Tesla, are going onchain. (CoinDesk)
-- Stripe will expand stablecoin cards to over 100 countries by year-end. (CoinDesk)
-- Ethereum investors face a two-week wait to exit staking, and attention is turning to the Glamsterdam upgrade. (CoinDesk)
-- Crypto's lobbying arm, Fairshake, has named the House candidates it plans to back. (CoinDesk)
+- Founders Fund, backed by Peter Thiel, led a 5 million dollar token purchase in the crypto collateral protocol Anvil, reports CoinDesk.
+- OKX drew investment from Standard Chartered, Circle and Ripple as it pushes beyond being a crypto exchange, CoinDesk says.
+- Arbitrum joined the Paxos-led Global Dollar stablecoin group, CoinDesk reports.
+- The US scrapped a proposed 10 thousand dollar reporting rule for crypto sent to private wallets, according to CoinDesk.
+- The Solana Foundation unveiled a programme to settle institutional trades in seconds, with input from JPMorgan, CoinDesk reports.
+- Ethereum's Glamsterdam test got a last-minute fix ahead of a major capacity jump, says CoinDesk.
