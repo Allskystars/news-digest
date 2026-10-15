@@ -1,54 +1,54 @@
-# News Digest — Wednesday, 14 October 2026
+# News Digest — Thursday, 15 October 2026
 
 ## Top 10
 
-1. Chip stocks had a brutal session. Reuters says Nasdaq ended lower as chipmakers fell on a China memory report and worries about AI spending, and analysts say the AI trade may be turning.
-2. Investors are waiting for U.S. inflation data. Asian shares edged up as the chip selloff eased, and the Fed's Waller said inflation expectations are well anchored, according to Reuters.
-3. Bitcoin is trading near 83,000 to 84,000 dollars. CoinDesk says it rose after Fed official Williams said he sees no rate hike in 2027.
-4. The first rotating U.S. troops of the returning American rotation have landed in Lithuania. President Nausėda confirmed it, as reported by 15min.
-5. Bank of America was hit with a fine of more than 1.2 billion dollars for money-laundering failings, according to the BBC.
-6. Big U.S. banks reported earnings. Goldman Sachs and Citi beat estimates, JPMorgan had a rare profit miss, and Wells Fargo beat on profit but fell short on revenue, per Reuters.
-7. The IMF warned about risks to the world economy from an AI market correction, war and debt. Fitch separately warned that rising bond yields are worsening the debt outlook for rich countries.
-8. Russia hit Kyiv with ballistic missiles overnight. Delfi reports two people were killed and 21 injured, and Zelensky says a power plant was struck.
-9. Lithuania's prime minister called Trump's easing of sanctions on Russian diesel "shameful", according to LRT. Some Republicans in the U.S. are also criticizing the deal, says Reuters.
-10. A Saudi man has been charged with planting a sophisticated recording device in an OpenAI office, the BBC reports.
+1. Hot U.S. inflation numbers for September have shaken markets. Traders are now betting on a Fed rate hike, with Citi expecting one in December. (Reuters)
+2. Tech stocks took a beating. The Nasdaq ended sharply lower and Asian markets sold off this morning as the AI trade wobbled. (Reuters)
+3. Lithuania wants to extend its stepped-up border protection along the Kaliningrad region. It is also seeking to have Russia's GRU military intelligence designated a terrorist organization. (Anadolu, REFORM.news)
+4. U.S. troops have started arriving in Lithuania, with up to a hundred already here and the rest due by mid-November. Many see it as a step toward a permanent American base. (15min, LRT)
+5. Kraken's parent company, Payward, is buying Lithuania's Saldo Bank. It would be the first crypto firm to buy a bank in the EU. (Bloomberg, CoinDesk)
+6. Lithuania has frozen the assets of Russian oligarchs Mikhail Fridman and Alisher Usmanov after they were removed from the EU sanctions list. (Європейська правда)
+7. Bitcoin slipped below eighty-one thousand dollars as rate worries weighed on crypto. (CoinDesk)
+8. Anthropic has told investors its quarterly revenue jumped to almost seventeen billion dollars ahead of its stock market debut. (BBC, Reuters)
+9. Attacks in the Gulf are escalating. Houthi strikes hit Aramco's headquarters, and two ships sank near the Strait of Hormuz. (Reuters)
+10. Netflix is cutting about a thousand jobs, its deepest cuts since 2022. (BBC)
 
 ## Lithuania
 
-- Lithuania is spending more than 33 million euros on military fuel infrastructure, LRT reports.
-- A Vilnius simulation looked at three scenarios for a crisis in Kaliningrad and how Lithuania, NATO and the Kremlin might react, according to LRT and 15min.
-- Defence minister Robertas Kaunas met his Polish counterpart, and 15min says the deal on Polish Piorun air-defence systems is finalised.
-- Former interior minister Agnė Bilotaitė gave up her parliament seat. She says she knows of no law-enforcement interest in her. Delfi and 15min cover it.
-- Parliament is considering a bill with new restrictions on Belarusians, and the Seimas is also looking at the question of declassifying former KGB collaborators, according to REFORM.news and Delfi.
-- The government is to decide whether to freeze the assets of Russian billionaires Usmanov and Fridman, LRT reports.
-- Delfi reports that Telia Lietuva is restructuring and plans up to 85 job cuts.
-- From March, Lithuanians will be able to see what colleagues earn, under the new pay-transparency rules, according to Delfi.
-- LRT reports that Lithuania is moving to tighten rules for platform work, and a proposal would let Klaipėda port pay almost no dividends so it can invest in expansion.
-- Lithuania's competition authority made a decision on the Vilnius Akropolis cinema, and Estonia's Infortar got approval to buy Litagra, according to 15min.
-- Lithuania and Poland signed an agreement on the Harmony Link power grid, CEEnergynews reports.
-- Lithuanian-made drone-interception systems are being tested, including in Ukraine, LRT says. Bloomberg also profiles a Lithuanian web-data company, valued at around 3.6 billion dollars, that is powering AI labs.
-- In Vilnius, a fire broke out at the Plasta plastic-recycling plant, and police caught a man who escaped from court. LRT, Delfi and 15min cover both stories.
-- The Mikutavičius criminal case has gone to court, according to LRT.
+- Lithuania's Supreme Court has upheld convictions in a big cigarette smuggling scheme from Belarus. (European Public Prosecutor's Office)
+- Lithuania's interior minister wants to keep the enhanced border security on the Kaliningrad side in place for longer. (Anadolu)
+- In parliament, there is a proposal to cap state debt at forty-five percent of GDP. Another committee wants Ignitis Group to decide the fate of the Baltic Sea wind park project. (LRT)
+- Politician Masiulis will be sworn in as a member of parliament, taking the seat of Ingrida Bilotaitė. (Delfi)
+- President Nausėda is heading to Brussels for the European Council, where he will discuss EU funding, defence and migration. (15min, Delfi)
+- A Lithuanian minister proposes banning self-employed status for foreign students. (Baltic News Network)
+- The tax authority plans a system where people would no longer need to file income declarations. (15min)
+- An economist says people with home loans needn't fear dark scenarios on interest rates. (LRT)
+- A Vilnius-built aerial intelligence company, AISPECO, is being bought by Canada's Volatus for ten and a half million dollars. (Dealroom, Delfi)
+- Ignitis ON has opened Vilnius's biggest ultra-fast electric vehicle charging park. (15min)
+- In Kaunas, someone set fire to the sign of the Kauno diena newspaper's office overnight. Police are looking for the arsonist. (LRT, 15min)
+- Estonia says it plans to close a backup gas pipeline to Kaliningrad. (15min)
+- The farewell for beloved broadcaster Henrikas Vaitiekūnas took place in Vilnius. (Delfi, 15min)
+- Rolandas Skaisgirys was elected the new head of the Lithuanian Basketball Federation. (BasketNews)
 
 ## Markets & Economy
 
-- European stocks hit a one-week high on easing oil prices and bond yields, though LVMH dragged luxury shares lower, says Reuters.
-- Citigroup and BlackRock are both turning cautious on U.S. stocks, and BlackRock is bullish on short-dated Treasuries, according to Reuters.
-- PIMCO's Ivascyn says U.S. Treasury yields may not have peaked yet, as the Fed could tighten again, per Reuters.
-- German inflation for September was confirmed at 3.3 percent, according to Reuters.
-- China's factory-gate prices heated up on rising commodity costs, while consumer inflation came in below forecasts, Reuters reports.
-- The BBC says Poundland is in rescue talks as its owners look for a buyer, and Royal Mail is losing 400 postal workers a week, according to the union.
-- Reuters says LSEG is in talks to buy the data group Octus for about 3.5 billion dollars. Bumble is also going private in a 1.3 billion dollar deal.
-- Character.AI has filed for bankruptcy and will sell some assets to Disney for 20 million dollars, according to Reuters.
-- Volkswagen's CEO says Europe's mass-market carmakers are under enormous pressure, Reuters reports.
-- Latvia is forecast to have the second-fastest growth in the Baltics this year, according to Baltic News Network.
+- U.S. consumer prices rose more than expected in September. Reuters says a rate hike this month is back on the table. (Reuters, BBC)
+- Citi now expects a December hike, while Fed official Bowman says there is time to wait and see. The dollar eased back from an eighteen-month high. (Reuters)
+- Wall Street banks reported mixed results. Morgan Stanley and BlackRock beat estimates, while Bank of America missed and booked a one point two billion dollar charge. (Reuters)
+- Oil fell as investors weighed supply and Middle East tensions. The IEA warns diesel shortages could last into 2027. (Reuters)
+- Sterling hit a sixteen-month high against the euro. The Bank of England's Pill doubts markets are right to price in four rate hikes. (Reuters)
+- Spain's inflation is rising at its fastest pace in over three years, and German wholesale prices rose eight point seven percent in September. (Reuters)
+- ASML's earnings lifted European tech shares. TSMC is expected to report a sixth straight record profit. (Reuters)
+- In Britain, drop-off charges at airports are being reviewed, and Wayfair and other firms were fined for misleading sales tactics. (BBC)
+- Berkshire Hathaway is putting another three hundred thirty million dollars into Bending Spoons. (Reuters)
 
 ## Crypto
 
-- Bitcoin is near 84,000 dollars after Fed official Williams said he sees no rate hike in 2027, according to CoinDesk. Earlier it held a tight range near 83,000 ahead of U.S. inflation data.
-- Strive is raising 500 million dollars through a new preferred share class to buy more bitcoin, CoinDesk reports.
-- BNY and Citadel Securities are testing tokenized U.S. Treasuries to speed up Wall Street financing. Federated Hermes also plans its first onchain fund shares, per CoinDesk.
-- South Korea blocked 27 crypto exchanges, including Bitmart and KuCoin, CoinDesk reports.
-- Russia's largest bank, Sberbank, got approval to trade crypto, and the Philippines' biggest exchange, Coins.ph, reportedly faces central bank action, according to CoinDesk.
-- Ledger says a "spy" chip in CryptoBilis-branded Ledger devices sent wallet keys over a mobile network, according to CoinDesk.
-- A UK court ruling improves the government's chances of keeping 5 billion dollars of seized bitcoin, CoinDesk says.
+- Bitcoin fell below eighty-one thousand dollars after the hot inflation report pushed rate-hike bets higher. (CoinDesk)
+- Payward, Kraken's parent, will become the first crypto firm to buy an EU bank, as it expands into deposits and lending. (CoinDesk)
+- BlackRock's crypto ETF assets are up sixty-three percent, but remain well below the 2025 peak. (CoinDesk)
+- A proposed thirty-one point four percent French tax on regulated stablecoins could push traders offshore. (CoinDesk)
+- Dutch regulators gave Qivalis an e-money licence for a euro stablecoin that complies with EU rules. (CoinDesk)
+- Solana will upgrade on October twenty-first, aiming for finality in about one hundred fifty milliseconds. (CoinDesk)
+- Standard Chartered is opening direct bitcoin and ether trading to wealthy clients in the UAE. (CoinDesk)
+- AI agents have made one hundred thirty-eight million crypto payments so far. (CoinDesk)
