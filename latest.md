@@ -7,7 +7,7 @@
 3. Attacks on ships near the Strait of Hormuz hit a record high, with twelve vessels struck in a week, and oil exports are slowing. BBC.
 4. Bitcoin dipped to around eighty-one thousand dollars, briefly slipping below eighty thousand before buyers stepped in. CoinDesk.
 5. Lithuania is keeping soldiers on the border with Kaliningrad, and the army's support there has been extended until mid-November. Defence Minister Robertas Kaunas confirmed it. 15min and Yahoo.
-6. Lithuania's finance minister says new taxes are not being considered for now, even as critics say the government has no convincing plan to get back under the deficit limit. LRT.
+6. Official Valys says new taxes are not being considered for now, while Skaistė says the government has no convincing plan to get back under the deficit limit. LRT.
 7. Kraken's owner, Payward, has agreed to buy Lithuania's Saldo Bank. That would make it the first crypto company to buy an EU lender. eGamers.
 8. US import prices rose, with the biggest annual gain in more than four years. Reuters.
 9. Ukraine hit a Gazprom-linked plant in Russia, and Trump has reportedly told Kyiv to stop such attacks. Delfi and 15min.
@@ -16,7 +16,7 @@
 ## Lithuania
 
 - The government is planning around four point eight billion euros for defence in 2027, about five percent of GDP. The coalition is still debating the exact figure. LRT.
-- Central bank governor Gediminas Šimkus's colleague, Andrius Kubilius, says he's worried about next year's growing state budget deficit. LRT.
+- Andrius Kubilius says he's worried about next year's growing state budget deficit. LRT.
 - Lithuania has lodged a strong protest with Russia over its ongoing attacks on Ukraine. Foreign Minister Kęstutis Budrys also said Lithuania wants to strengthen the transatlantic partnership. Foreign Ministry.
 - Lithuania wants to limit the influence of the Moscow Patriarchate, citing a threat to national security. Ukrainian National News.
 - A new laser factory has opened in Lithuania, with the ambition of becoming one of the biggest in the world. LRT.
