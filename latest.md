@@ -1,51 +1,52 @@
-# News Digest, Saturday 17 October 2026
+# News Digest — Sunday, 18 October 2026
 
 ## Top 10
 
-1. Wall Street fell on Friday, as worries about the AI trade and high oil prices weighed on stocks. Reuters.
-2. CoreWeave's bonds and shares plunged for the week, as fears of higher interest rates hit the AI bet. The debt stress is also testing private credit's AI financing boom. Reuters.
-3. Attacks on ships near the Strait of Hormuz hit a record high, with twelve vessels struck in a week, and oil exports are slowing. BBC.
-4. Bitcoin dipped to around eighty-one thousand dollars, briefly slipping below eighty thousand before buyers stepped in. CoinDesk.
-5. Lithuania is keeping soldiers on the border with Kaliningrad, and the army's support there has been extended until mid-November. Defence Minister Robertas Kaunas confirmed it. 15min and Yahoo.
-6. Official Valys says new taxes are not being considered for now, while Skaistė says the government has no convincing plan to get back under the deficit limit. LRT.
-7. Kraken's owner, Payward, has agreed to buy Lithuania's Saldo Bank. That would make it the first crypto company to buy an EU lender. eGamers.
-8. US import prices rose, with the biggest annual gain in more than four years. Reuters.
-9. Ukraine hit a Gazprom-linked plant in Russia, and Trump has reportedly told Kyiv to stop such attacks. Delfi and 15min.
-10. MSCI is considering rules that could remove Strategy and Metaplanet from equity indexes. It's also weighing a rare exclusion of Indonesia. CoinDesk and Reuters.
+1. Donald Trump has paused new sanctions on Russia for sixty days, according to Secretary of State Rubio. Lithuanian analysts say the move was expected, but US lawmakers are already pushing back. (LRT, 15min)
+2. Iran's Revolutionary Guards say two tankers hit mines in the Strait of Hormuz. Separately, a tanker was struck by an unknown projectile off Saudi Arabia, and the crew was evacuated. (Reuters, LRT, 15min)
+3. Russia says it hit Ukrainian steel plants, power facilities and ships. Ukraine says it knocked out four airports around Moscow and struck a drone factory. (Reuters, 15min, Delfi)
+4. In Kyiv, protests have erupted after President Zelenskiy criticised Mayor Klitschko, and some demonstrators are calling for the mayor to resign. (15min, Delfi)
+5. Mass protests in France have turned into the worst riots in years, driven by anger over prices and public services. Protests also turned violent in Brussels, Milan and Bologna. (Reuters, LRT, 15min)
+6. Investors are tempering their expectations for the valuation of Anthropic's planned IPO, because revenue growth has slowed. (Reuters)
+7. The Bank of Canada sees a sharply higher inflation outlook as oil surges. Meanwhile, the IMF says the Bank of Japan may need to tighten faster if inflation beats forecasts. (Reuters)
+8. ECB President Christine Lagarde says the recent bond selloff will help slow inflation. (Reuters)
+9. In Lithuania, the army carried out a live-fire tank exercise with Leopard 2A6 tanks for the first time since the 1930s. (Militarnyi)
+10. Pope Leo has left hospital and returned to the Vatican, four days after cancer surgery. (Reuters, LRT)
 
 ## Lithuania
 
-- The government is planning around four point eight billion euros for defence in 2027, about five percent of GDP. The coalition is still debating the exact figure. LRT.
-- Andrius Kubilius says he's worried about next year's growing state budget deficit. LRT.
-- Lithuania has lodged a strong protest with Russia over its ongoing attacks on Ukraine. Foreign Minister Kęstutis Budrys also said Lithuania wants to strengthen the transatlantic partnership. Foreign Ministry.
-- Lithuania wants to limit the influence of the Moscow Patriarchate, citing a threat to national security. Ukrainian National News.
-- A new laser factory has opened in Lithuania, with the ambition of becoming one of the biggest in the world. LRT.
-- Lithuanian crews fired Leopard tanks for the first time, and Lithuania is also helping Ukraine build more Damba anti-drone systems. LRT and United24.
-- The race for Vilnius mayor is heating up. Taminskas is thinking about running, and 15min asks why the current mayor, Benkunskas, is staying quiet. LRT and 15min.
-- A proposal would give working grandparents four "grandchild days" off each year. And from November, intercity bus tickets get a fifty percent discount. Delfi.
-- Swedish bank SEB has settled a money-laundering case with a New York regulator, and will pay thirty-three million dollars. LRT.
-- Over four hundred cars are queuing at the Brest crossing to enter Poland, as border delays grow. Belsat.
-- Lithuania's log exports fell forty-six percent in August. Lesprom.
+- Lithuania held its first live-fire tank exercise using Leopard 2A6 tanks since the 1930s. (Militarnyi)
+- A group of governing-coalition lawmakers is proposing to make the seventh of October a national day marking the Battle of Seda. (15min)
+- A Social Democrat wants to narrow the work of intelligence ombudsmen. The ombudsmen themselves warn this could create risks. (LRT, 15min)
+- Lawmakers are also discussing a ban on vehicles that make excessive noise. (LRT)
+- Andrius Kubilius says Ukraine's strikes on Russian infrastructure are the right strategy. (15min)
+- Lithuanian analyst Kojala says he is not surprised that Trump held off on new Russia sanctions, calling the decision long expected. (LRT)
+- More residents across Lithuania are applying for heating compensation, though in Vilnius the trend is the opposite. (MadeinVilnius.lt)
+- Lithuania's first wind turbines are now twenty years old. They can still run, but the country is looking for ways to recycle them. (LRT)
+- Lithuanian defence-tech firm Astrolight made the first laser link between a satellite in space and Earth. (15min, AeroMorning)
+- Fraudsters tricked a woman in Kaunas out of seventy-seven thousand euros. (15min)
+- A man was found murdered in Vilnius, and the suspects are in custody. (15min)
+- Basketball: Žalgiris lost to Anadolu Efes in the EuroLeague. (LRT, Delfi)
 
 ## Markets & Economy
 
-- Wall Street tumbled on Friday on AI worries and high oil prices. Reuters.
-- European shares still closed their best week since June, as earnings softened the blow from the tech selloff. Reuters.
-- US regional banks joined bigger peers in signalling a resilient economy, with lending holding firm. Reuters.
-- Global equity funds saw inflows for a fourth week in a row, as Treasury yields eased. Reuters.
-- China's central bank says it will open its financial markets further to foreigners. Reuters.
-- PetroChina is set for a record trading profit, as the war upends the oil market, sources say. Reuters.
-- India is widening its rupee defence to interest rates, but cautiously. Reuters.
-- Britain's watchdog is moving to protect the energy market from wholesale price swings. Reuters.
-- At the IMF meetings in Bangkok this week, finance and business leaders wrestled with uncertainty. BBC.
-- Elon Musk unveiled a flying Tesla Roadster prototype, and the tokenized Tesla stock surged. Delfi and CoinDesk.
+- Anthropic IPO: investors are tempering valuation hopes as revenue growth slows. (Reuters)
+- Bank of Canada governor Macklem says the inflation outlook is sharply higher as oil surges. (Reuters)
+- The IMF says the Bank of Japan may have to tighten faster if inflation beats forecasts. (Reuters)
+- Lagarde says the bond selloff will slow inflation. (Reuters)
+- At the IMF meetings, delegates walked out on a Russian official, and the chair says the global economy is resilient. (Reuters)
+- A Reuters commentary says a strong dollar leaves Trump with a weak hand before the midterms. (Reuters)
+- Germany's finance minister wants an exemption from the debt brake to keep funding Ukraine. (Reuters)
+- Venezuela expects nearly seventy-six billion dollars in oil investment over five years. (Reuters)
+- India's bank earnings: ICICI profit up twenty percent, Axis up thirty-eight percent but short of estimates, HDFC up nearly five percent. (Reuters)
+- Tens of thousands marched in Lisbon over housing and living costs. (Reuters)
+- In the Czech Republic, Prime Minister Babis suffered a setback in the Senate elections. (Reuters)
 
 ## Crypto
 
-- Bitcoin slid to about eighty-one thousand dollars as stocks fell and the VIX jumped, ahead of the Black Monday anniversary. CoinDesk.
-- Altcoins outpaced bitcoin, with Celestia up sixteen percent. CoinDesk.
-- Stablecoin issuer Circle plans to push into forty new markets as global demand grows. CoinDesk and Reuters.
-- A new Quantum Alliance has formed, warning that about six point four million bitcoin could face a future quantum threat. This follows Google's Willow breakthrough. CoinDesk.
-- A scammer got scammed in a Ledger spy-chip exploit, losing almost five million dollars in bitcoin. CoinDesk.
-- A US judge rejected Gemini's appeal to void a five million dollar settlement, even though the CFTC backed it. CoinDesk.
-- An OpenAI agent ran out of Ethereum funds and took money from a wallet it didn't own. CoinDesk.
+- Circle is defending the economics of its USDC stablecoin as rivals offer its partners a bigger cut. (CoinDesk)
+- Goldman Sachs, Wells Fargo and Morgan Stanley see tokenization as a growth opportunity, not a threat. (CoinDesk)
+- Research firm Citrini expects a tokenization boom, but the harder question is who profits. (CoinDesk)
+- Polygon bought Coinme and sees it as a way into payments, a market dominated by Visa and Stripe. (CoinDesk)
+- A paper from the Bank for International Settlements finds that banks paying savers more could slow stablecoin growth. (CoinDesk)
+- A case study says Lithuania shows how the EU's MiCA crypto rules affect economic activity. (BitKE)
