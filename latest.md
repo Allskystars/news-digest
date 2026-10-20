@@ -1,56 +1,55 @@
-# News Digest, Monday 19 October 2026
+# News Digest — 20 October 2026
 
 ## Top 10
 
-1. A suspected drone came down in northern Lithuania, in Pasvalys district near the Latvian border. Residents were told to take shelter, NATO jets were scrambled, and debris damaged a passing car. Ukraine says it regrets the incident and blames Russian electronic warfare, and the prime minister wants a sabotage angle investigated. (Reuters, CNBC, LRT, Delfi)
-
-2. Lithuania says an attempted arson at a company that looks after Starlink equipment was a Russian attack. The prime minister calls it part of Russia's hybrid war aimed at disrupting Ukraine's operations. (LRT, 15min, Kyiv Independent)
-
-3. President Trump has suspended a batch of Russia sanctions two days before they were due to take effect, saying it keeps peace talks going. Oil prices fell on hopes of more fuel supply. (BBC, Reuters)
-
-4. Ukraine hit St Petersburg in a large drone attack, damaging oil facilities and a data centre, and at least one person was killed. The Kremlin says its war aims won't change. (BBC, Delfi, 15min)
-
-5. France is counting the cost of its worst unrest in years. About 1,800 people have been detained and the town hall in Limoges was set on fire. President Macron addressed the nation and condemned those trying to destroy the Republic. (Reuters, LRT, 15min)
-
-6. China's economy grew faster than expected in the third quarter, powered by an AI-driven export boom, even though spending at home is weak. (BBC, Reuters, CoinDesk)
-
-7. Anthropic says it will commit five percent of its shares to a new public benefit fund, as it prepares for a big stock market listing. (BBC, Reuters)
-
-8. Oil slid sharply, helping Wall Street and bonds while Asian stocks slipped. (Reuters)
-
-9. Microsoft has pulled out of the UK's largest AI data centre project in Essex, though developer Nscale says it will still build the site. (BBC, Reuters)
-
-10. Bitcoin and Nasdaq futures rallied after the China data. Bitcoin is now in a debate over whether it can reach 100,000 dollars by year-end. (CoinDesk)
+1. Lithuania says a fire at a Starlink site near Vilnius was deliberate sabotage, and suspects Russia. It's the third such attack on Starlink sites serving Ukraine in the EU this month, and the prime minister has ordered tighter security at critical infrastructure. (NYT, Reuters, UPI)
+2. A Ukrainian drone aimed at St Petersburg strayed off course, crossed from Poland into Lithuania and exploded next to a moving car. Kyiv has apologised, Vilnius suspects Russian electronic interference, and Lithuania wants NATO approval to shoot down drones without visual confirmation. (LRT, DW, Notes From Poland)
+3. Lithuania's government has approved the 2027 budget draft. It puts about 4.8 billion euros, roughly 5 percent of GDP, into defence, with a deficit of 3.8 percent of GDP. (LRT)
+4. Global markets are wobbling over AI. Asian shares fell and Brent crude sits near a five-month high on Middle East tension, but the Nasdaq bounced back more than one percent as chip stocks recovered. (Reuters)
+5. France is in turmoil. Riots have rattled French markets and pushed European shares lower, and President Macron refused to accept his interior minister's resignation. (Reuters, 15min)
+6. OpenAI is trying to speed up its fundraising ahead of an expected Anthropic IPO, according to sources. (Reuters)
+7. Bitcoin is holding near 82,000 dollars after a bounce, helped by stronger Chinese growth data and a stock market rebound. (CoinDesk)
+8. Reports say the Trump administration is slowing the delivery of Patriot missiles to Ukraine, and Zelensky says Washington is pressing Kyiv to give in. (Delfi, LRT, 15min)
+9. Elon Musk says he'll give every American child a share in SpaceX. (LRT, 15min)
+10. Lithuania has lost its Modern Pentathlon World Cup stage in Kaunas because it won't admit Russian and Belarusian athletes. (LRT, 15min)
 
 ## Lithuania
 
-- Lithuania's draft 2027 budget puts defence spending at more than 4.8 billion euros, around 5 percent of GDP. The government expects a deficit of 3.8 percent, above the EU's 3 percent limit, and the budget now goes to parliament. (LRT)
-- The Seimas will consider letting seniors keep passports and ID cards valid with no expiry date. (15min)
-- In Vilnius, a teenager was beaten on a bus, and a driver ended up in hospital after a car hit a pole. In Radviliškis, a man died of knife wounds and a suspect is in custody. (Delfi, 15min)
-- A court of appeal will continue questioning Vladimir Antonov, the former shareholder of the collapsed Snoras bank. (LRT)
-- Lithuanians' reaction to the French unrest: Lithuanians living in Paris say the situation is frightening. (Delfi, 15min)
+- Police have detained a Vilnius man suspected of stealing classified information and passing it on. (LRT, Delfi)
+- Lithuania's National Security Commission is meeting after the weekend's incidents. Local councils are being criticised because not all air-raid shelters were unlocked after the drone crash. (LRT)
+- Parliament starts work on next year's state and Sodra social insurance budgets. (Delfi)
+- Changes to the Labour Code will take effect in November. (15min)
+- Police carried out about 50 searches in a large operation targeting a company head. (Delfi)
+- Lithuanian State Security says Volha Karach's group "Our Home" was creating conditions for Belarusians who don't meet requirements to stay, and the interior minister is referring it to law enforcement. (Naša Niva, 15min)
+- Prosecutors have named seven Akmenė council members as suspects in the "envelope" corruption cases. (LRT)
+- Luminor has named Ieva Linkutė-Urbonė as head of its retail banking. (LRT)
+- Defence-industry firms in Lithuania say they're getting more and more threats. Two defence-tech firms won EU funding to expand production in Lithuania and Estonia. (LRT, Defence Industry Europe)
+- Akola has bought control of Lithuanian bubble tea chain OMG Bubble Tea, and NordVPN has become a partner of an NBA team. (Just Drinks, 15min)
+- A first military exercise with the new US Army contingent in Lithuania is planned for November. (News.by)
 
 ## Markets & Economy
 
-- Oil tumbled after the Russia sanctions waiver, which could mean more fuel supply. Turkey expects some diesel under a US-Russia supply deal, and Russia says deliveries to the US will take 15 to 20 days. (Reuters, 15min)
-- Gulf markets were mixed: Saudi stocks rose with oil, while Egypt fell on regional tensions. (Reuters)
-- China has proposed export controls on solar manufacturing technology. (Reuters)
-- Samsung will reportedly use TSMC technology for Nvidia's next memory chips. (Reuters)
-- Accenture is looking to sell its Chinese operations for up to 1.5 billion dollars, the FT reports. (Reuters)
-- In the UK, home sellers are cutting asking prices on about 3,000 homes a day, the most in 15 years, and Rightmove sees mortgage rates biting. (BBC, Reuters)
-- EU tariffs aimed at China are also hurting Ukraine's steel makers, a steel boss says. (BBC)
-- The IMF and World Bank meetings left developing countries with more questions than answers. (Reuters)
-- Vietnam signed a free-trade pact with European countries including Norway and Switzerland. (Reuters)
+- Asian shares tumbled while oil rose as investors waited for AI company results. Reuters' "Trading Day" says the AI storm has eased for now. (Reuters)
+- Brent crude is near a five-month high, and gold slipped as traders weigh the Fed outlook. The dollar and euro were flat and the yen weakened. (Reuters)
+- The FTSE 100 ended lower after three days of gains, hit by banks and miners. (Reuters)
+- US homebuilder sentiment fell to near a 14-and-a-half-year low. The Fed is also worried the AI boom could add to inflation. (Reuters)
+- China left its benchmark loan rates unchanged for the 17th month in a row, and its central bank is studying making the overnight rate its main policy rate. (Reuters)
+- Germany has lost nearly half a million industrial jobs since 2019, according to the Ifo institute. (Reuters)
+- The Bank of England is looking into a claim that Barclays' private credit exposure was misrepresented. (Reuters, FT)
+- Chocolate maker Lindt ousted its CEO after poor European results and two outlook cuts. (Reuters)
+- South Korea's data-centre firm Elice fell 28 percent on its market debut. (Reuters)
+- Europe's electric car sales jumped 70 percent in September, to about 30 percent of the market. (Reuters)
+- The US has banned DeepSeek AI from government use. (BBC)
+- Uber beat a 200-million-pound claim from London black cab drivers. (BBC)
+- Reuters says Eric Schmidt owns about one percent of Anthropic, and Amazon says its AI chips will work with a popular coding language, challenging Nvidia. (Reuters)
 
 ## Crypto
 
-- Bitcoin rallied alongside Nasdaq futures and Korea's Kospi after China's GDP beat estimates. (CoinDesk)
-- Analysts are split on bitcoin hitting 100,000 dollars by year-end, with inflation clouding the outlook. (CoinDesk)
-- Friday's Wall Street scare may fade on Monday, according to volatility and bitcoin trades. (CoinDesk)
-- Hackers took 1.18 billion dollars in the third quarter, and Hacken says crypto audits give investors a false sense of security. (CoinDesk)
-- The White House's crypto chief is leaving. (CoinDesk)
-- Deutsche Bank plans to expand crypto custody in Asia in 2027. (CoinDesk)
-- Tokenized stock plans face pushback, with Broadcom and Verizon objecting to an OKX and ICE listing. (CoinDesk)
-- Latvia wants to accept crypto for tax payments from 2027. (CoinDesk)
-- Binance and Coinbase joined a West Africa scam sweep that flagged 11 million dollars. (CoinDesk)
-- Stablecoin supply has stalled, but payments jumped 45 percent. (CoinDesk)
+- Bitcoin rose about 0.8 percent to roughly 82,700 dollars, and the CoinDesk 80 index gained 1.3 percent, led by DeFi tokens. (CoinDesk)
+- JPMorgan is bringing its JPM Coin, a token for dollar deposits, to Ethereum for more institutional clients. (CoinDesk)
+- Deposits in crypto lending vaults have passed 10 billion dollars, and regulators are watching the risks. (CoinDesk)
+- The US CFTC has pushed back on CME's legal position in a fight over perpetual futures. (CoinDesk)
+- Tether's CEO is defending the company against a senator's claims that its stablecoins fuelled activity in Iran. (CoinDesk)
+- A Bitcoin wallet dormant since 2013 moved 411 coins, worth about 34 million dollars. (CoinDesk)
+- Bitcoin miner spin-off Nscale lost a Microsoft AI deal because its power connection may not be ready until the 2030s. (CoinDesk)
+- Cardano's Charles Hoskinson is building a new programming language for the network, and Zcash developers plan a fix to keep swaps private from future quantum computers. (CoinDesk)
