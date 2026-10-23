@@ -1,87 +1,56 @@
-# News Digest — Thursday, 22 October 2026
+# News Digest — Friday, October 23, 2026
 
 ## Top 10
 
-1. Meta has been hit with a record fine of twenty-five billion dollars over lies about user data privacy. It's the largest penalty ever imposed on Facebook's owner, and it stems from the Cambridge Analytica case. (BBC, LRT, Delfi)
-
-2. Elon Musk is exploring a merger of SpaceX and Tesla, which would be the biggest merger in history. Wall Street reportedly sees a deal as inevitable but is split on the price. (BBC, Reuters)
-
-3. Lithuanian police have uncovered one of the biggest synthetic drug labs in the Baltics, in Vilnius district. Officers found hundreds of kilos of drugs, around half a tonne of methamphetamine, and a Dutch national is said to have run it. (LRT, Euronews, 15min)
-
-4. Lithuania's prime minister says Russia is constantly testing the limits of NATO's Article 5 and watching how allies react. (LRT, Der Spiegel)
-
-5. French ten-year bond yields have hit five percent, the highest since 2002. Worries about French debt and political unrest are spreading across euro zone bond markets. (Reuters)
-
-6. Oil is rising after the US ordered diplomats to leave Saudi Arabia amid escalating Gulf tensions. Asian shares dipped on the same worries. (Reuters)
-
-7. UK inflation jumped to three-point-five percent in September, up from three-point-one, and government borrowing is at a one-year high. That puts pressure on the chancellor ahead of next week's Budget. (BBC, Reuters)
-
-8. Bitcoin has slipped back from a run toward eighty-five thousand dollars, trading around eighty-four thousand, as tech earnings from Tesla and Meta failed to calm AI jitters. (CoinDesk)
-
-9. Personal data and passport copies of Lithuanian travellers have turned up on the Russian black market after a big data leak. (Delfi)
-
-10. Lithuania has sent its first payment request of one-point-oh-six billion euros to the European Commission under the EU's SAFE defence instrument. (Finance Ministry)
+1. Wall Street had a sharp sell-off, with the S&P 500 and Nasdaq both ending sharply lower as fresh doubts about AI spending hit tech stocks. Meta was one of the hardest hit, and the cost of insuring its debt reached a record. (Reuters)
+2. Europe's STOXX 600 had its biggest drop in three weeks, with banks tumbling and oil climbing. French borrowing costs are also under strain, with the risk premium on French debt at levels last seen in the euro zone crisis. (Reuters)
+3. Oil is staying near a hundred dollars a barrel, as new Houthi strikes on Saudi Arabia keep supply worries alive. Iran's navy also says seven vessels were hit and warns the US of a wider response. (Reuters, CoinDesk)
+4. Bitcoin slipped below eighty-two thousand dollars as AI doubts returned, then trimmed early losses overnight. Altcoins and DeFi tokens fell harder than bitcoin. (CoinDesk)
+5. Lithuania says it's trying to confirm reports that two of its citizens have been detained in Iran. The foreign ministry is preparing a diplomatic note. (LRT, Delfi)
+6. Two balloons carrying smuggled cigarettes hit power lines in Lithuania and exploded. One carried around twenty thousand packs. (LRT, 15min)
+7. Barclays plans to cut five thousand jobs as it leans more on AI to save costs. (BBC, Reuters)
+8. Japan's core inflation is above the central bank's target, which strengthens the case for a near-term rate hike. The Philippines also surprised markets with a bigger-than-expected half-point rate hike. (Reuters)
+9. Anthropic's IPO is standing alone, as the AI market jitters have pushed other listings to the sidelines. Nasdaq's chief also flagged a modest softening in the IPO market. (Reuters)
+10. President Nausėda warned that peace talks without Ukraine would amount to dividing up spheres of influence. Lithuania's prime minister says the country is strengthening ties with partners as the international order frays. (LRT)
 
 ## Lithuania
 
-- The Seimas has started debating next year's state budget. A deputy minister says the draft includes a fuel excise tax for now, until there's a political decision on it. (LRT)
-
-- There's friction in the ruling coalition, with one report describing real anger at the Social Democrats, something one observer says they haven't seen in ten years. (LRT)
-
-- Ignitis Group is asking the government to postpone its first offshore wind farm project. (LRT)
-
-- Moody's has assessed Lithuania's economic outlook, according to the Finance Ministry. (Finance Ministry)
-
-- The US bank Citi plans a Baltic office, and the Lithuanian president is due to meet the bank's head. Separately, the economy minister is in London to attract capital to Lithuanian businesses. (LRT, Economy Ministry)
-
-- The government is not easing visa rules for Pakistani citizens, calling the push an attempt to manipulate. (LRT)
-
-- Polish and Lithuanian teams are investigating a drone explosion in Lithuania. Reports suggest it was a Ukrainian drone that flew through Poland first. (LRT, Brussels Signal)
-
-- Lithuania held a nuclear safety drill near the Belarusian border, and tactical exercises called Gama Shield took place in Vilnius district. (LRT)
-
-- The president says Orthodox Christians under the Moscow Patriarchate must choose sides, and the head of the Orthodox Church has appealed to national leaders over proposed conservative amendments. (LRT)
-
-- A border guard accused of shooting a smuggler has asked the court to acquit him. (LRT)
-
-- Customs at Medininkai seized two Audi cars used to smuggle cigarettes. (15min, REFORM)
-
-- The Supreme Court will hear an appeal from Ričardas Malinauskas, convicted in a corruption case. (15min)
-
-- A teenage motorcyclist died in a crash with an Audi in Vilnius district. (Delfi, 15min)
+- The prime minister says Lithuania will spend all of its military funding by the end of the year. Meanwhile, MP Laurynas Kasčiūnas wants the government to push the European Commission for a bigger defence exemption from budget deficit rules. (LRT)
+- Vilnius mayor Valdas Benkunskas says he'll run for a second term and has set out his main promises. Social Democrats are due to decide soon on who they back in the capital. (Delfi)
+- Montenegro's president visited Vilnius and asked for Lithuania's help in signing his country's EU accession treaty. Nausėda says Lithuania will push this forward during its EU presidency. (Anadolu, LRT)
+- MP Petrošius has asked prosecutors to investigate a leak of Lithuanian travellers' data, after a Delfi investigation. (LRT, Delfi)
+- A cybersecurity chief says about a hundred Lithuanian websites were vulnerable to a critical PHP flaw. Several governments briefly took their own sites offline over the same issue. (LRT, Delfi)
+- A party leader from "Lithuania – For All" is accused of moving money meant for the party into his own account, which was called a gross violation. (15min)
+- Lithuania's Judicial Council backed dismissing judge Kažys, who was convicted in a corruption case. (LRT)
+- A new EU-wide fee on small parcels from sellers like Shein and Temu starts in November. (Delfi)
+- Germany arrested a Ukrainian man suspected of spying on the German brigade stationed in Lithuania. (LRT)
+- Lithuania has deployed US-made mobile radars to strengthen NATO air defence. Its army chief also met the top US general, Dan Caine. (The Defense Post, Lithuanian Armed Forces)
+- Lithuanian officials say a Baltic offshore wind project may be pushed back, since Ignitis says costs have risen 27 percent. (IntelliNews)
+- Lithuania is also looking at its marine wind park plans with Poland, though Energy Minister Sinkevičius says the project's future is unclear. (LRT)
+- The Lithuanian army explained that explosions and helicopters over Kaunas overnight were part of planned activity, and false reports of a blast caused some worry. (Delfi, 15min)
+- Border guards say 31 migrants tried to cross from Belarus on Wednesday, some using ladders to get over the barrier. (Delfi)
 
 ## Markets & Economy
 
-- Wall Street closed higher, led by the Nasdaq, as SpaceX and Super Micro lifted AI sentiment. (Reuters)
-
-- European shares were flat, as strong earnings offset French unrest worries. In London, the FTSE 100 edged up on energy stocks, with a hot inflation report limiting gains. (Reuters)
-
-- The euro zone bond selloff has revived the debate about banks' so-called doom loop with their governments. The EU says it will propose new tools to protect the market. (Reuters)
-
-- The dollar slipped, with investors focused on the Federal Reserve. (Reuters)
-
-- Global diesel prices are expected to stay high despite Trump's deal with Russia, and Russia says it will send its first diesel cargo to the US on Thursday. (Reuters)
-
-- German software giant SAP passed ten billion euros in quarterly revenue and raised its 2026 outlook. (Reuters)
-
-- Legal AI startup Legora is now valued at eight-point-eight billion dollars after a new funding round, and OpenAI is expanding ChatGPT ads to twenty-six more countries. (Reuters)
-
-- In India, the central bank rejected all bids at a treasury bill auction as short-term yields surged. (Reuters)
-
-- Indonesia's president accused index provider MSCI of trying to intimidate the country after a market rout. (Reuters)
+- US weekly jobless claims are close to a 57-year low, which points to a steady labour market. (Reuters)
+- Asian shares wobbled as the tech sell-off boosted bonds and dented bets on rate hikes. The yen rose as investors rushed to safe havens. (Reuters)
+- Apple has begun selling its first foldable iPhone, the iPhone Duo. (Reuters)
+- Mark Zuckerberg won a Meta deal that helps him cover the bill for a possible California billionaire tax. (BBC)
+- London Stock Exchange Group will buy data firm Octus for three and a half billion dollars, partly to protect itself from AI disruption. (Reuters)
+- Procter & Gamble warns of a bigger hit from oil prices, even though consumer demand is holding up. (Reuters)
+- Hermès says revenue growth slowed as Chinese shoppers cut spending, while Prada showed resilience. L'Oréal says weight-loss drugs are affecting beauty and skin care sales. (Reuters, BBC)
+- Telia Lietuva's third-quarter revenue rose about ten percent, but it plans job cuts. Danske Bank's Lithuanian branch is cutting twenty jobs. (Telecompaper, LRT)
+- Lithuania's gas use rose seventeen percent in the first nine months of the year. (CEEnergynews)
+- The UK's median salary for full-time workers grew at its slowest pace since 2021. Britain's grid operator says the lights will stay on this winter. (Reuters, BBC)
+- Nippon Steel plans to spend three billion dollars upgrading US Steel plants. Rio Tinto will invest 1.9 billion dollars in a bauxite project in Queensland. (Reuters)
 
 ## Crypto
 
-- Bitcoin is holding around eighty-four thousand dollars after pulling back from near eighty-five thousand, as Middle East worries resurface and AI-linked tech stocks wobble. (CoinDesk)
-
-- SpaceX and Tesla are exploring a merger that would bring together more than thirty thousand bitcoin. (CoinDesk)
-
-- Solana's biggest network overhaul since 2020, called Alpenglow, goes live on Wednesday. (CoinDesk)
-
-- Zcash developers confirmed a November date for an upgrade that triples payment speed. (CoinDesk)
-
-- Ripple is bringing Wall Street into twenty-four-hour stock trading, though HSBC warns that markets are still thin. (CoinDesk)
-
-- Tether led a fifteen-million-dollar funding round for the AI-focused payments startup Mural. (CoinDesk)
-
-- The US banking regulator, the OCC, has a final rule on weighing stablecoin rewards against the GENIUS Act ban, and Trump is set to spotlight overseas crypto abuses at a White House event. (CoinDesk)
+- Bitcoin ETFs took in about 1.1 billion dollars over three days, though that may not be enough to spark a steep rally. (CoinDesk)
+- Bitcoin dropped to around eighty-one thousand dollars at one point, as Chinese and Asian stocks fell too. (CoinDesk)
+- China wants to seize around sixty-two thousand bitcoin tied to a 5.7 billion dollar fraud scheme. (CoinDesk)
+- Solana has gone live with its biggest network change since 2020. A fix for a bug on the XRP Ledger has been delayed to November. (CoinDesk)
+- Ethereum developers are working on a four-minute settlement plan that could cut the cost of moving crypto. (CoinDesk)
+- The Irish central bank fined Coinbase Ireland 3.6 million dollars for failing to safeguard customer funds. (CoinDesk)
+- A senior Senate Democrat is looking into Tether payments to a firm linked to Bo Hines. (CoinDesk)
+- Fireblocks denies it's in talks to be bought by Visa. Venture capital giant a16z is widening its bets beyond crypto into AI and other new tech. (CoinDesk)
