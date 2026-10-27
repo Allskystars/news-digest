@@ -11,7 +11,7 @@
 7. In Lithuania, Fitch has affirmed the country's A-plus credit rating with a stable outlook, according to LRT.
 8. Lithuania and South Korea are working together on air defence. LRT reports a South Korean firm signed deals with four Lithuanian companies, and another outlet says they agreed on joint production.
 9. Lithuania is expanding the Šiauliai air base so it can host up to 750 NATO troops on rotation, LRT reports.
-10. In the UK, the Budget is due Wednesday. Reuters says Chancellor Healey is expected to be careful with the markets, and sterling slipped against the euro and the dollar ahead of it.
+10. In the UK, the Budget is due Wednesday. Reuters says Healey is expected to be careful with the markets, and sterling slipped against the euro and the dollar ahead of it.
 
 ## Lithuania
 
@@ -25,8 +25,8 @@
 - On the border, Delfi says 25 migrants tried to cross from Belarus in the last three days, and LRT says 21 were turned back in the past day. Lithuania has also called on the EU to speed up checks on the origin of Russian grain.
 - Hospitals are in the news. Delfi and LRT report Klaipėda University Hospital will not use the new pay model and is asking to freeze salaries for a year, while staff speak of pressure and debts.
 - Next year Lithuania will issue a new three-euro collector coin, reported by Delfi and 15min.
-- Delfi and 15min say Lithuania's highest average pay in September was 74,000 euros a month in one sector, per 15min. Lithuania has also taken over the chair of the Baltic Assembly, per LRT.
-- Sad news for Lithuania's 100-year-old former president: 15min reports on Valdas Adamkus's health ahead of his hundredth birthday.
+- 15min reports the highest average monthly pay in September was about 74,000 euros, at one top-paying employer. Lithuania has also taken over the chair of the Baltic Assembly, per LRT.
+- 15min has an update from doctors on former president Valdas Adamkus's health, and where he will spend his hundredth birthday.
 
 ## Markets & Economy
 
