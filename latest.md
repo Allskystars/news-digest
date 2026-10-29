@@ -3,7 +3,7 @@
 ## Top 10
 
 1. The Federal Reserve left interest rates unchanged, as expected, and new Fed chair Kevin Warsh said politics played no role in the decision. The dollar held steady, but the path for future rate moves still looks murky. (Reuters, BBC, CoinDesk)
-2. In Britain, Chancellor Rachel Reeves's successor, Healey, delivered his first Budget. He accepted a smaller fiscal buffer, cut the 2027 growth forecast to one percent, and promised an extra ten billion pounds of support for Ukraine. (Reuters, BBC)
+2. In Britain, finance minister Healey delivered his first Budget. He accepted a smaller fiscal buffer, cut the 2027 growth forecast to one percent, and promised an extra ten billion pounds of support for Ukraine. (Reuters, BBC)
 3. Asian shares fell and Wall Street futures slipped after Alphabet missed earnings expectations. Microsoft and Oracle, by contrast, eased worries about heavy AI spending. (Reuters)
 4. Oil prices fell as peace hopes outweighed fears of a widening Middle East conflict. The World Bank now expects commodity prices to jump twenty-three percent this year because of the war. (Reuters)
 5. Bitcoin dipped below eighty thousand dollars early this morning, after bouncing above eighty-one thousand yesterday, as tech jitters and a hawkish Fed weighed on crypto. (CoinDesk)
@@ -19,7 +19,7 @@
 - The government rejected a proposal to publish the names of former KGB collaborators who never confessed. (LRT, 15min)
 - Rail Baltica's company, RB Rail, is asking the European Commission for another 358 million euros. An official warned that the biggest threat to the project is inconsistent political decisions. (LRT)
 - Parliament's budget-related committees are pushing back on the 2027 budget. The legal committee gave it no votes in favour, and the agriculture sector says its expectations were not met. (Delfi, LRT, 15min)
-- The prime minister says child-care benefits will be raised from next July. He also wants a smaller deficit, and talk of a new tax is in the air. (LRT)
+- Politician Virginijus Sinkevičius says child-care benefits will be raised from next July. He also wants a smaller deficit, and talk of a new tax is in the air. (LRT)
 - The Interior Ministry says it will need an extra 124 million euros next year for public security. (LRT)
 - Defence Minister Robertas Kaunas says the army is considering buying a Palantir system. (15min)
 - President Nausėda is calling a State Defence Council meeting, and he welcomed Finland's and Norway's efforts to help end the war in Ukraine. (15min, LRT)
