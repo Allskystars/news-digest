@@ -1,44 +1,57 @@
-# News Digest — Friday, 30 October 2026
+# News Digest — Saturday, 31 October 2026
 
 ## Top 10
 
-1. Binance, the world's biggest crypto exchange, says a suspected hack has hit about 6.3 billion dollars of assets. Around 3 billion has been frozen, and the company says it will cover all losses. (CoinDesk, Reuters, BBC)
-2. Bitcoin slid to around 77,000 dollars after the Binance news, and Standard Chartered warns prices could stay under pressure. Big institutional investors are also rushing to pull money off exchanges. (CoinDesk, Reuters)
-3. Lithuania will bring back universal military conscription from 2032, President Nausėda says, after the State Defence Council agreed. Men aged 18 to 22 would be called up. (LRT, Delfi, 15min)
-4. Lithuanian prosecutors have charged two German citizens with terrorism over an attempted arson attack on Starlink equipment in Vilnius. The pair were arrested in Germany, and police link similar attacks in other countries. (Reuters, LRT, Delfi)
-5. Wall Street ended lower after Alphabet missed on revenue, which revived worries about the huge cost of AI spending. Google's value dropped by about 500 billion dollars, and Japan's Nikkei fell 3 percent. (Reuters, BBC)
-6. The European Central Bank kept rates unchanged but signalled a rise in December. The bank's president, Christine Lagarde, also announced she will resign, effective 7 February. (Reuters, LRT, Delfi)
-7. US inflation heated up in September, even as consumer spending rose. That reinforced bets on further Fed tightening, and gold slipped. (Reuters)
-8. Oil rose on supply worries after the Houthis attacked Saudi Arabia. Shell and Total also posted their highest quarterly profits since 2022. (Reuters)
-9. In Britain, finance minister John Healey delivered a low-key Budget, and think tanks warn of painful years ahead for living standards. The retailer Poundland is heading for administration. (BBC, Reuters)
-10. DoorDash agreed to buy rival Instacart for 17 billion dollars, a big bet on grocery delivery. (BBC, Reuters)
+1. The crypto exchange Binance has suffered what's believed to be the biggest crypto hack ever, about 6.3 billion dollars stolen, and BBC reports it's linked to North Korea. Binance says it has arranged funds to cover the losses and plans to restart withdrawals on Sunday. (BBC, CoinDesk, Reuters)
+2. Wall Street closed sharply lower as worries about huge AI spending hit tech stocks. The Nasdaq is on track to lose around two trillion dollars in value this October. (Reuters, BBC)
+3. Intel had what looks like its worst trading day ever, setting off a selloff in chip stocks around the world. (Reuters)
+4. Reuters reports the Pentagon has told Lithuania, Latvia and Estonia to tone down their rhetoric about Russia. Lithuania's presidential office says the president and his advisers haven't received any such request. (Reuters, LRT, 15min)
+5. Politico reports the Trump administration is pressing Lithuania to let Belarusian potash move through the port of Klaipėda, despite EU sanctions. The Lithuanian prime minister denies there's any pressure. (Politico, LRT, Delfi)
+6. Lithuania's economy shrank in the latest quarter for the first time since 2022. Economists say it's hard to expect growth to stay fast. (TradingView, LRT)
+7. The NordBalt power cable between Sweden and Lithuania was cut off after an accident on the Swedish side. (Anadolu, RMF24)
+8. Oil forecasts are rising. Reuters says Brent is now expected to average above 90 dollars next year for the first time since May, as Middle East stability remains elusive. (Reuters)
+9. Euro zone growth beat expectations, though Reuters warns headwinds are building. (Reuters)
+10. OpenAI has reportedly cut its fundraising and valuation targets amid jitters over AI. (CoinDesk)
 
 ## Lithuania
 
-- The conscription plan is the big domestic story. Lithuania will reintroduce universal military service for men from 2032, though the defence minister says an earlier start, from 2030, is possible but risky. (LRT, Delfi, 15min)
-- Brussels has turned down a request from the Baltic states for 500 million euros for anti-drone defences, and suggests they borrow instead. Separately, the president says the rules for air-raid alerts are being changed. (LRT, 15min)
-- On the budget, President Nausėda says higher gambling and sugar taxes could cut the deficit without angering the public. Meanwhile, the Farmers and Greens are tying their budget support to bringing back a family referendum question. (LRT)
-- Politico reports that US President Trump is pressing Lithuania to ease EU potash sanctions on Belarus. (Politico)
-- The head of Lithuania's ambulance service, Paliulionis, is stepping down. This comes after an attack on an ambulance crew that has alarmed medics. (LRT, Delfi, 15min)
-- Lithuania's Defence Ministry is weighing a purchase of a Palantir AI system for the armed forces, and a German brigade in Lithuania will track Russian radar activity. (LRT, Defence24)
-- The border service at Medininkai caught a Belarusian living in Lithuania using a fake driving licence. Separately, two foreigners were stopped carrying 14,000 euros. (Delfi, 15min)
-- Lithuania's state data agency will publish third-quarter GDP figures soon, and an update to the Labour Code takes effect in November. (15min)
+Politics and defence:
+- The prime minister is under pressure over a plagiarism finding in his dissertation. He says he doesn't question it, while the opposition asks that the story not be politicised. (15min, LRT)
+- Lithuania is expanding conscription so that all adult men could be called up by 2032, and the prime minister says the 2027 budget will still allow for a new army division. (Chosun Ilbo, LRT)
+- The Vilnius district council's Polish minority faction has split, and some members have moved to the opposition. (15min)
+- A new poll finds the president and Remigijus Žemaitaitis are the most trusted public figures. (LRT, Delfi)
+- A German official says moving a German brigade to Lithuania is going smoothly. (LRT)
+- Lithuania received its first Thales multi-function radar, and is reportedly weighing a 200 million euro Palantir AI system for the military. (Defensehere, IntelliNews)
+- Iran has confirmed it is holding two Lithuanian women tourists. (Hengaw, Delfi)
+- Police link a string of Starlink arson attacks in three EU countries to one group. (The Insider)
+
+Economy and business:
+- Opposition leader Čmilytė-Nielsen doubts the government's efforts to cut the budget deficit, and says so-called sin taxes won't save next year's budget. (LRT)
+- The central bank chief says there are no illusions that the old banking model will return, and that interest rates not rising now doesn't mean they won't later. (LRT)
+- Changes to the Labour Code come into force, altering how employers can end work contracts. (LRT)
+- Green Genius raised 65 million euros in a green bond sale, and Lithuania now has over 200,000 small solar producers. (Renewables Now, CEEnergynews)
+- Furniture maker Vilniaus baldai grew revenue 6.5 percent over the year, but its EBITDA fell by a third. (LRT, TradingView)
+- Dismantling the old power lines to Russia and Belarus has already freed up 240 hectares of land. (LRT)
 
 ## Markets & Economy
 
-- Stocks slumped and bonds rallied as AI giants' spending spooked investors. Amazon is burning cash, Intel warned about weak PC demand and chip supply, and its shares fell after hours. (Reuters)
-- European shares closed at a seven-week high after the ECB pause. Volkswagen posted its deepest loss since the Dieselgate scandal, and ING's profit missed forecasts. (Reuters)
-- Microsoft expects to raise 25 billion dollars in a US bond sale. Meanwhile, Kalshi raised 1 billion dollars at a 40 billion dollar valuation. (Reuters)
-- Eli Lilly raised its revenue outlook on strong weight-loss drug demand, and its shares jumped. Starbucks also expects annual profit above forecasts. (Reuters)
-- In Lithuania, the clothing retailer Apranga says nine-month sales rose, and its profit is up 30 percent to 19.2 million euros. Estonia's Infortar bought the agricultural firm Litagra. (LRT, TradingView)
-- Lithuanian sugar beet farmers are worried because falling purchase prices are shrinking planting areas. Mortgages have also become more expensive. (LRT, Delfi)
-- UK lenders approved the fewest mortgages since 2023 as borrowing costs rise. Yen was steady ahead of the Bank of Japan meeting. (Reuters)
+- Big Tech is returning the smallest share of cash to shareholders in 15 years, because of heavy AI spending. (Reuters)
+- Netflix shares may see more losses, according to Reuters analysis, and Audi has cut its 2026 outlook on weak China demand. (Reuters)
+- US companies are reportedly refusing to buy Russian diesel, which 15min calls a blow to Trump. (15min)
+- Exxon and Chevron beat profit forecasts as refining margins surged during the wars. (Reuters)
+- Private equity firm CD&R is exploring a deal to take payments processor Global Payments private. (Reuters)
+- UK house price growth slowed to its lowest since January 2024, and the pound is standing tall as the dollar and euro weaken. (Reuters)
+- Canada's economy stalled again in August and probably lost ground in September. (Reuters)
+- Fed official Barkin says the central bank's direction is straightforward and the question is the pace. Reuters notes new data challenges the Fed chief's view that things are not too hot. (Reuters)
+- Next week brings US midterm elections, earnings and jobs data, with markets wary of AI. (Reuters)
+- The European Commission warns of a second energy crisis and a tougher winter. (LRT)
 
 ## Crypto
 
-- The Binance breach is the biggest crypto hack on record. Blockchain sleuths point to North Korea's Lazarus Group, and Binance says the cause was a compromised engineer's laptop. (CoinDesk)
-- Binance's own data shows the drained wallets were backing customer assets, leaving its ether backing about 6 percent short for now. (CoinDesk)
-- Polymarket paused trading after a third-party breach drained some user accounts. It has since resumed trading and says it will reimburse users. (Reuters, CoinDesk)
-- Coinbase returned to profit as investment gains offset weaker trading. Separately, the crypto exchange HTX is leaving the UK after settling with the regulator. (Reuters, CoinDesk)
-- Walmart and Eli Lilly joined a growing group of companies objecting to tokenized-stock plans from OKX and ICE. (CoinDesk)
-- The US sanctioned two Russians for laundering crypto for North Korean IT workers, and a new study suggests breaking Bitcoin's keys with a quantum computer needs 17 times less hardware than thought. (CoinDesk)
+- Bitcoin fell below 77,000 dollars. Liquidations jumped to about 1.6 billion dollars as the Binance hack and tech weakness hit prices. (CoinDesk)
+- The hacker reportedly split 1.4 billion dollars of bitcoin into 19 wallets that can't be frozen, and dumped an obscure 2017 token that crashed 90 percent. (CoinDesk)
+- Binance found a wider breach than first thought, and experts are divided on whether freezing assets will help recover the money. (CoinDesk)
+- The hack also hit India's largest crypto exchange, which has limited futures trading. (CoinDesk)
+- Some Wall Street analysts are urging investors to buy crypto stocks after the hack. (CoinDesk)
+- Strategy's CFO Andrew Kang has resigned, even as the company posted record operating profit. (CoinDesk)
+- XRP Ledger developers are tightening rules on who can hold restricted tokens. (CoinDesk)
