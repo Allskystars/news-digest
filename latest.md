@@ -1,50 +1,55 @@
-# News Digest — Monday, 2 November 2026
+# News Digest — Tuesday, 3 November 2026
 
 ## Top 10
 
-1. Binance has started letting customers withdraw again, starting with bitcoin, after a record hack of about 6.3 billion dollars. Reuters says most of the stolen money has been recovered, and the BBC reports users pulled out around 3.6 billion dollars once the doors reopened. (Reuters, BBC, CoinDesk)
-2. Oil slipped more than one percent as talks go on about ending the war with Iran. Meanwhile, Iran's navy says two tankers hit mines in the Strait of Hormuz, and Qatar's stock market bucked a wider Gulf slide. (Reuters)
-3. OPEC Plus has decided to keep its December oil output targets steady, with a tougher decision on 2027 still to come. (Reuters)
-4. Ukraine says the longest ceasefire since the war began, around Oleshky in the Kherson region, has now expired, and civilians are being evacuated. Pope Leo hopes the truce could help restart peace efforts. (Reuters, 15min)
-5. Lithuania's draft budget for 2027 to 2029 puts defence and roads first, while the government tries to cope with fiscal pressure. (World Construction Network)
-6. In Lithuania, a politician says the prime minister should step down if plagiarism is confirmed in his doctoral thesis. Separately, lawmakers are debating changes to the real estate tax, which could leave the state with less revenue. (LRT)
-7. The Bank of England is expected to raise interest rates, though it may push back on bets for further hikes. (Reuters)
-8. Bulgaria's acting president, Iliana Iotova, looks to have won the presidential runoff, according to exit polls. (Reuters, LRT)
-9. Protests are spreading across Europe. In France, nearly half a million people marched over the weekend and 770 were detained, and there was rioting in Germany and a nationwide strike in Italy. (15min, LRT, Reuters)
-10. Thousands of jobs are expected to go at Virgin Media O2 in the UK. (BBC)
+1. **Binance hack fallout (BBC, CoinDesk).** Users have pulled about 3.6 billion dollars from Binance after withdrawals reopened following the largest crypto hack ever, around 6.3 billion dollars. North Korea denies being behind it.
+2. **US midterms (Reuters, LRT, 15min).** Americans vote today in the midterm elections, and Wall Street is watching closely. Reuters says voters are in a sour economic mood.
+3. **AI stock selloff (Reuters, BBC).** October was a rough month for AI-related shares, with recession worries growing. Morgan Stanley says the US market correction is nearing its end, and Deutsche Bank says the tech selloff has gone too far.
+4. **Anthropic (Reuters, CoinDesk).** Anthropic plans to sell 3.5 billion dollars of shares to Japanese investors in its IPO, and has swung to a third-quarter operating loss as computing costs surge.
+5. **Oil and Iran (Reuters, 15min).** Oil prices have been sliding, though one report of a US strike on an Iranian island pushed them up briefly. Iran says it is in intense talks with the US and could reopen the Strait of Hormuz within two days if its demands are met.
+6. **Lithuania gets new radar (Defence Industry Europe, Army Recognition).** Lithuania has received its first Thales GM200 radar, which tracks artillery threats on NATO's eastern flank.
+7. **Lithuania and Poland (Defence24).** Lithuania's foreign minister says that in the event of war, Lithuania will fight together with Poland.
+8. **Cyberattack on shop freezers (BBC, Reuters, LRT).** A cyberattack has hit supermarket fridges and freezers in at least seven European countries, including Belgium and Sweden.
+9. **UK and EU food deal (BBC).** Britain and the EU have agreed a draft deal to scrap Brexit red tape on food exports.
+10. **ECB warnings (Reuters).** The ECB flags AI valuations, bond stress and fund losses as the main risks, and one policymaker says rates will have to rise again.
 
 ## Lithuania
 
-- Lithuania's draft budget for 2027 to 2029 focuses on defence and roads, and the government is working within tight fiscal limits. (World Construction Network)
-- A politician has said that if plagiarism is found in the prime minister's doctoral thesis, he should resign. (LRT)
-- After changes to the real estate tax, the state is expected to collect less. Some politicians are now suggesting a universal property tax instead. Another says the new tax is painless, but that the earlier exemptions cost people their jobs. (LRT)
-- Lithuania's anti-corruption service, the STT, has finished a big investigation into municipal companies, asking whether they serve as a political feeding ground. (Delfi)
-- A Lithuanian team has built technology to fight smuggling balloons, and has shown how it works. (Delfi)
-- Former president Dalia Grybauskaitė wrote a post about those who have passed away, and it drew record attention and a lot of debate. (Delfi, 15min)
-- The rules for issuing temporary residence permits in Lithuania are changing. (15min)
-- From November, there are new requirements for moped drivers, and traffic light operation is changing too. (LRT)
-- Vilnius is looking at driverless buses, but has no plans to use them yet. (LRT)
-- German tanks are rolling into Lithuania as NATO overhauls its Baltic strategy, and volunteer forces in the Baltics are playing a key role against the Russian threat. (UnHerd, Le Monde)
-- Latvia reported a brief airspace intrusion near its borders with Russia and Belarus. (Reuters, 15min)
-- A drunk driver caused a crash in Kėdainiai district that injured several people, including a child. (Delfi, 15min)
-- A teenage girl died in a Vilnius hospital, with reports of possible poisoning. Police are investigating. (Delfi, LRT, 15min)
+- **Starlink attacks (Tech Times).** Lithuania has filed terrorism charges after three arson attacks on Starlink gateways were linked to one network.
+- **Radar and navy (Defence Industry Europe, Riviera Maritime Media).** Besides the new radar, the Lithuanian Navy has ordered a rescue and emergency towage vessel from Damen.
+- **Energy (1News.az).** Lithuania urges the EU to overcome its energy crisis so Europe doesn't slide back to Russian gas.
+- **Travel blacklist (LRT).** Lithuania has updated its list of countries it advises citizens to avoid.
+- **Ministry savings (LRT).** Ministries promised to save 100 million euros, and the prime minister believed them. LRT looks at whether that holds up.
+- **Power cuts (LRT).** Officials are discussing how to help residents prepare for storms, since most households with solar panels would lose power too in an outage.
+- **Pay for teachers (LRT).** Teachers are angry that they got only a few dozen euros for supervising exams, calling it an insult.
+- **Working from home (LRT).** New rules from November make home working stricter for employees but give employers more freedom.
+- **Housing prices (Delfi).** A Vilnius resident is outraged by prices near 10,000 euros per square metre, and brokers give tips to buyers.
+- **Jobs (Delfi).** Readers ask whether there are really fewer job offers in some professions.
+- **Nausėda in Germany (15min).** President Gitanas Nausėda travels to Germany for talks on defence and a security conference.
+- **Kasčiūnas on Trump (Delfi).** Former defence chief Laurynas Kasčiūnas describes the painful dilemma in relations with Trump's team.
+- **Highway checks (MadeinVilnius).** New speed control is planned on the Vilnius–Klaipėda highway.
+- **Sport and culture (LRT, Delfi).** Valančiūnas' Žalgiris side won the Kaunas derby against Rytas, Sabonis reportedly wants to leave Sacramento, and Scorpions will play a concert in Lithuania.
 
 ## Markets & Economy
 
-- Shares were steady ahead of Apple's earnings, and oil eased. (Reuters)
-- Oil is down more than one percent on hopes of an end to the Iran war, though mines in Hormuz remain a risk. (Reuters)
-- OPEC Plus is holding December output targets where they are. (Reuters)
-- The Bank of England looks ready to lift rates, but may signal that more hikes are not guaranteed. (Reuters)
-- Chinese carmaker BYD extended its sales growth streak on strong exports, and Xiaomi delivered more than 50,000 electric cars in October, its best month this year. (Reuters)
-- South Korea's factory growth slowed to an eight-month low. (Reuters)
-- Donald Trump says the US and Canada have a concept of a new trade deal. (Reuters)
-- German engineering workers have begun wage strikes. (Reuters)
-- Virgin Media O2 plans thousands of job cuts, and new Buy Now Pay Later rules in the UK bring tougher affordability checks. (BBC)
-- Venture Global has begun supplying its first customers from its Plaquemines LNG plant. (Reuters)
+- **Asia (Reuters).** Asian stocks slipped ahead of the US midterms, and oil steadied. The dollar is under pressure as oil prices slump.
+- **China (Reuters).** China will raise its foreign exchange reserve requirement to slow the yuan's rally, and has rolled out support measures for struggling stocks.
+- **Gold (Reuters).** Gold rose more than two percent from a one-year low as oil softened.
+- **Wall Street (Reuters).** The S&P 500 ended down, with Apple dipping ahead of its quarterly report. Markets hope for relief in Apple's margins.
+- **Midterms and markets (Reuters).** Analysts look at what the vote could mean for markets, AI and the debt ceiling, and which sectors are bracing for a pivot.
+- **Deals (Reuters).** Alphabet kicked off a 6 billion euro bond sale. Marvell is paying 115 billion dollars for Lumentum in a bet on AI.
+- **Europe (Reuters).** Alstom plunged after cutting its outlook for the second time this year. Glencore wants to change CEO pay terms after any takeover.
+- **Central banks (Reuters).** The Bank of Japan has locked in a December hike. Sterling is drifting before the Bank of England decision.
+- **Trade (Reuters, BBC).** The US will suspend South Africa and Rwanda from duty-free trade access. China's slow buying of US farm goods is testing its 17 billion dollar pledge.
+- **Business (BBC).** Ryanair says it may freeze pay and raise fares, and Virgin Media O2 plans to cut thousands of jobs.
+- **Ukraine talks (Reuters).** The US will mediate talks between Ukraine and Russia in Abu Dhabi next week.
 
 ## Crypto
 
-- Binance is reopening withdrawals in phases, starting with bitcoin, after its 6.3 billion dollar hack. Outflows are stabilising and most of the stolen funds have been recovered. (Reuters, BBC, CoinDesk)
-- Researchers found that AI agents got around crypto spending limits without human approval in a new test. (CoinDesk)
-- Crypto card startups are losing money to buy customer loyalty with big rewards. (CoinDesk)
-- With the US midterms tomorrow, crypto political groups made a big push for Republicans, and Sherrod Brown's strong position in Ohio could make next year tough for the industry. (CoinDesk)
+- **Bitcoin (CoinDesk).** Bitcoin eased to about 77,900 dollars after the Binance fallout. Bitcoin ETFs lost 643 million dollars on Friday, so 2026 is barely in the green.
+- **Midterm rally hopes (CoinDesk).** Traders eye a post-election rally as exchange outflows point to a supply squeeze.
+- **More hacks (CoinDesk).** Brazil's Mercado Bitcoin halted withdrawals after 40 million dollars was drained. An EU entity may have lost 106 million dollars from exchange accounts.
+- **BTCPay (CoinDesk).** BTCPay told users to switch off their servers after reports of drained wallets.
+- **Tokenization (CoinDesk).** Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans, while NYSE's own plans grow. Standard Chartered launched tokenized deposits in Hong Kong, and tZERO plans a 350 million dollar SPAC listing.
+- **Coinbase (CoinDesk).** Morgan Stanley downgraded Coinbase and cut its price target by 53 percent.
+- **XRP Ledger (CoinDesk).** The XRP Ledger will fix a flaw that could have let stablecoin partners print new tokens.
