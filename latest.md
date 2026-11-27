@@ -1,65 +1,100 @@
-# News Digest — 26 November 2026
+# News Digest — Friday, November 27, 2026
+
+Good morning. Here's what happened over the last 24 hours.
 
 ## Top 10
 
-1. Washington is back on the tariff warpath. President Trump unveiled new tariffs aimed at what he calls excess industrial capacity, pointing at Europe and China, and later proposed surprise duties on Brazil, including ten percent on aircraft. (Reuters)
-2. The AI stock rout deepened on Wednesday. The Nasdaq fell as much as four and a half percent early before buyers stepped in, and the slide in Anthropic is testing Wall Street's big bets on future AI profits. (Reuters, CoinDesk)
-3. The US economy is running hot. Third-quarter growth was revised sharply higher, jobless claims fell more than expected and inflation stayed high in October, so markets now fully expect a Fed rate hike in December. (Reuters, CoinDesk)
-4. Bitcoin slipped back below sixty thousand dollars, and crypto mood is near rock bottom. Even long-time bulls say this time feels different, with Galaxy warning of a deeper slide. (CoinDesk)
-5. Oil prices rose after Iran said ships struck mines in the Strait of Hormuz and told vessels to coordinate their passage with it. (Reuters)
-6. Lithuania detained five people suspected of working with Russian state media, several of them known pro-Russian activists. Separately, prosecutors charged a Lithuanian man with spying for Russia on infrastructure and Ukraine aid since 2021. (LRT, Delfi)
-7. Lithuania is weighing a temporary windfall tax on oil refiners, looking at the Polish and Czech models. In practice that means Orlen Lietuva, which has warned the refinery could close if its modernisation project falls through. (LRT)
-8. Some relief for the budget: the European Commission says it won't open an excessive deficit procedure against Lithuania, at least for now. (LRT)
-9. The EU is planning a roughly fifty-billion-euro sovereign tech fund to back AI and quantum startups and help them compete with the US and China. (Reuters)
-10. The row over Taiwan's office in Vilnius goes on. The Prime Minister says Lithuania has the right to decide on its name by itself, while the Taiwanese office says it won't change it. (LRT, Delfi)
+1. **ECB gets a new chief.** Reuters says EU leaders are set to name Spain's Pablo Hernández de Cos as the next president of the European Central Bank, taking over from Christine Lagarde. European stocks closed higher, partly because investors expect continuity at the bank.
+
+2. **Trump's new tariffs land.** Reuters reports that Washington has unveiled a new round of tariffs aimed at pulling global trade away from China. Singapore says it's "very disappointed", Mexico is urging Asian partners to crack down on tariff dodging, and China says it may respond.
+
+3. **Lithuania threatens to downgrade the Taiwanese office.** Bloomberg and LRT report that Vilnius says it could revoke the legal status of Taiwan's representative office as part of patching up ties with Beijing. President Nausėda, quoted by Delfi, says investment from Taiwan has been far lower than expected.
+
+4. **Nvidia shipment freeze hits AI stocks.** Reuters and CoinDesk report that US export controls have stopped Nvidia server shipments to four Southeast Asian countries. Fitch warns this will slow data-centre investment across Asia.
+
+5. **Attack on a Saudi refinery.** Reuters says an attack on Saudi Aramco's Jazan refinery killed a worker and halted some operations. Brent crude is trading near its highest level this month on Middle East supply fears.
+
+6. **Bitcoin steadies around sixty thousand dollars.** CoinDesk says bitcoin is holding near $60,800 after dipping to $57,500 on Wednesday, still about half its peak. Bitcoin ETFs keep losing money, and about $7 billion in options expire today with traders leaning bearish.
+
+7. **Zodia Custody data breach.** Reuters and CoinDesk report that Standard Chartered's crypto custody arm was hacked and client and staff contact details were exposed. The firm says no money was moved.
+
+8. **Altria eyes Imperial Brands.** Reuters says the Marlboro maker is looking at a cash bid for Imperial Brands, which could include breaking it up. Imperial confirmed the interest and its shares jumped in London.
+
+9. **Lithuania pushes to label Russia's GRU a terrorist group.** LRT and the Kyiv Post report that Foreign Minister Kęstutis Budrys wants the EU to designate Russian military intelligence a terrorist organisation over sabotage across Europe.
+
+10. **SAP may cut ten thousand jobs.** Reuters, citing Bloomberg, says the German software giant is weighing at least ten thousand job cuts as it restructures around AI.
 
 ## Lithuania
 
-- The Energy Minister says Lithuania could return to nuclear power, this time looking at small modular reactors. (TimesLIVE)
-- The government chose to pay into the EU's migration solidarity pool rather than accept migrants. (Delfi)
-- The government will discuss next year's state budget draft on Friday. It has already approved the Sodra social insurance budget and proposed an extra sixty-two million euros for maternity benefits. (15min, Delfi)
-- In the Seimas, the President's plan to temporarily cut electricity prices for industry is moving ahead. (15min)
-- Litgrid connected the country's most powerful battery park, and Lithuanian wind farms set a new output record. (LRT, CEEnergynews)
-- Subsidies for businesses buying electric cars have been halted because the money ran out. (LRT)
-- Lithuania now has seven billionaires, according to this year's rich list. (Delfi)
-- The Bank of Lithuania fined payments firm DiPocket a hundred and fifty thousand euros, and a court upheld an eighty-thousand-euro fine on Maneuver LT. (LRT, 15min)
-- Energy supplier Elektrum Lietuva was caught lobbying illegally, and the ethics watchdog will decide on a fine. (15min)
-- Economy Minister Grikšas said the government is discussing cuts to foreign worker quotas and is getting complaints from business. (LRT)
-- Real estate group Artea will spend two point five five million euros buying back its own shares. (15min)
-- Almost a hundred and nineteen more hectares of land will be taken for Rail Baltica construction. (15min)
-- KMT got large-scale project status for a twenty-eight-million-euro expansion. (Invest Lithuania)
-- Petrol prices in Lithuania fell about two percent on Wednesday. (LRT)
-- Police and border officers protested outside the government building over staff shortages. Union leader Navickas says the strike goes on after a two-hour meeting with the minister. (Delfi, LRT)
-- Lithuania and Azerbaijan signed a strategic partnership declaration in Baku, with talk of easier EU visas and direct flights. (Report.az)
-- Lithuania called on the EU to name Russia's military intelligence service, the GRU, a terrorist group. It also joined six EU countries in urging limits on Russian travellers and athletes. (Yahoo News, LRT)
-- President Nausėda, in The Hague, called for closer defence industry cooperation with the Netherlands. (LRT)
-- In politics, Kaunas district vice mayor Navickienė is stepping down after a string of scandals, and a court upheld MP Bagdonas's conviction in the expenses case. (LRT)
+- **Windfall tax goes beyond Orlen.** 15min reports that the government's planned windfall tax will hit more energy companies than just Orlen Lietuva. LRT says President Nausėda wants the money to go into the defence fund and called the tax's exact design a secondary question.
+
+- **Budget draft revised.** 15min says the government has adjusted next year's draft budget. LRT quotes the prime minister as saying calls to cut the deficit and raise wages at the same time are an equation that can't be solved.
+
+- **Cities lost tax money.** 15min reports the prime minister saying municipalities got about 23 million euros less income tax this year than planned.
+
+- **Row with Poland over the Polish minority.** LRT and TVP World report that Polish Foreign Minister Radosław Sikorski accused Lithuania of treating its Polish minority unequally. The prime minister brushed it off, telling 15min that school issues are being handled through normal channels.
+
+- **Five held over work for Russian state TV.** LRT and The Insider report that five people have been detained on suspicion of working with Russia's VGTRK broadcaster. A court also jailed a separate suspect for two months for helping a foreign state against Lithuania.
+
+- **Border stays open.** LRT says Lithuania's new border guard chief sees no reason to close checkpoints with Russia, unlike Estonia, even as cigarette-smuggling drones from Belarus keep coming. Seventy-four have been intercepted this year.
+
+- **Lithuania opts out of EU migrant relocation.** LRT reports that Vilnius is choosing fines over taking in asylum seekers under the EU solidarity scheme, and Baltic News Network says politicians are split on the issue.
+
+- **Extra EU defence loans.** Report.az says Lithuania is asking for another 1.44 billion euros in EU defence loans. Separately, the economy minister told LRT he hopes about 200 million euros of borrowing for energy will be included.
+
+- **Baltic power plant talks stalled.** LRT quotes a minister as saying the joint Baltic nuclear or power plant idea hasn't been dropped despite Lithuania's "islands" project, but there are no talks right now.
+
+- **Tough job market for airBaltic crews.** Reuters reports exclusively that airBaltic is offering crew members a choice between leaving, demotion, or being seconded to Papua New Guinea.
+
+- **Business moves.** Invest Lithuania says consulting firm Guidehouse will open in Kaunas with 250 jobs. Upday reports that Rheinmetall, KNDS and Quantum Systems are building factories and hubs in Lithuania.
+
+- **Lithuania tops instant payments.** LRT says an ECB survey ranks Lithuania first in the euro zone for instant payments.
+
+- **Fuel and heating.** LRT says fuel prices rose again on Thursday. Vilnius mayor Benkunskas says heating bills remain "within reason" despite pricier fuel and higher VAT.
+
+- **Party switch in the Seimas.** 15min reports that MP Andrius Bagdonas is leaving the Liberal Movement group.
+
+- **Basketball.** Lithuania beat Serbia in World Cup qualifying, which revives its hopes of reaching the 2027 tournament.
 
 ## Markets & Economy
 
-- Asian shares bounced this morning, but AI worries and tariffs are still hanging over them. (Reuters)
-- Investor Michael Burry said he has closed all his tech shorts and gone long. (CoinDesk)
-- US new home sales jumped to a ten-month high in October, and core capital goods orders beat forecasts. (Reuters)
-- The Fed's latest survey shows steady growth and sticky inflation, and policymakers disagree on what is driving prices. (Reuters)
-- The US will cap tariffs on India at seventeen percent if a trade deal is reached, and Vietnam says it is working to close its own deal fast. (Reuters)
-- Billionaire Todd Boehly has signed a US-backed share swap deal to buy Lukoil's global assets. (Reuters)
-- In Britain, energy bills are set to soar after a twenty-six percent hike in the price cap. BoE Governor Bailey says inflation could peak lower if energy prices settle. (Reuters)
-- Germany's rebound lost steam in the third quarter. (Reuters)
-- Airline Norse Atlantic says its finances are "critical," and its shares plunged. (Reuters)
-- Nvidia agreed to pay two hundred and ninety million dollars to settle a 2018 investor lawsuit, and it faces questions from a top Senate antitrust Democrat. (Reuters)
-- The EU fined global fragrance makers about half a billion dollars for running a cartel. (Reuters)
-- Deere forecast 2027 profit below expectations, as the farm equipment recovery stays weak. (Reuters)
-- Walmart-backed PhonePe has restarted its IPO, aiming for a valuation of up to fifteen billion dollars. (Reuters)
-- For the first time, card payments overtook cash in eurozone shops. (15min)
+- **Stocks recover.** Reuters says global shares found their footing after a rough month and the dollar is on track for a third monthly gain. President Trump admitted Wednesday's sell-off briefly worried him.
+
+- **ECB hawks.** Minutes show there was already broad support for a rate hike at the ECB's October meeting, Reuters reports.
+
+- **Bank of England.** The BoE plans to lower capital requirements for UK-focused lenders, but it also warns that financial risks are growing as AI-related borrowing surges.
+
+- **Trump attacks GDP data.** Reuters says the president is demanding an investigation into GDP figures that came out before the midterm elections.
+
+- **Oil.** OPEC+ is likely to keep its output targets unchanged for the first quarter, sources told Reuters.
+
+- **UniCredit and Commerzbank.** UniCredit is pushing for a management shake-up at Commerzbank, with CEO Andrea Orcel as chair.
+
+- **Norse Atlantic in trouble.** The Norwegian budget airline has suspended its flights and warned it could go bankrupt.
+
+- **Spain heads to a snap election.** Reuters looks at what that could mean for markets. Spain has also given its anti-money-laundering unit the power to freeze crypto accounts without a court order.
+
+- **UK migration falls.** Net migration to the UK has dropped to almost a 30-year low, not counting the pandemic years.
+
+- **Black Friday.** Reuters says American shoppers are being careful heading into Black Friday because inflation is still squeezing budgets.
+
+- **Asia.** J.P. Morgan expects Indian stocks to rise further in 2027. Markets are also betting on a large rate hike from India's central bank next week.
 
 ## Crypto
 
-- Ether and DeFi tokens are falling about twice as hard as bitcoin as the stock selloff comes back. (CoinDesk)
-- France's Senate blocked a new crypto tax and a wallet register that critics said could put holders at risk of kidnapping. (CoinDesk)
-- Ukraine's parliament passed a crypto tax and regulation bill expected to raise about three hundred and thirty million dollars. (CoinDesk)
-- The EU's banking watchdog wants Brussels to write rules for crypto firms offering DeFi lending. (CoinDesk)
-- Italy's UniCredit launched a six-year bitcoin product for retail customers. It protects their capital but caps gains at sixty-five percent. (CoinDesk)
-- Bithumb, South Korea's number two exchange, warned customers about phishing after stolen records came to light in its probe of an October breach. (CoinDesk)
-- A year after buying bitcoin, the Czech central bank won't say what its stake is worth. The coin is down at least forty percent since then. (CoinDesk)
-- Just ten accounts drove all of the XRP Ledger's trading growth last quarter. (CoinDesk)
-- Gold has lost its edge over bitcoin as a safe haven, and with both underwater on a risk-adjusted basis, cash looks hard to beat. (CoinDesk)
+- **Bitcoin.** CoinDesk says bitcoin is flat around $60,800 over the US Thanksgiving holiday while DeFi tokens lead the bounce. More coins sitting untouched onchain looks like past bear-market bottoms.
+
+- **Auros shuts down.** Hong Kong trading firm Auros, which once handled about four percent of global crypto exchange volume, is winding down.
+
+- **NovaTech ruling.** New York's attorney general won a ruling of about $1.4 billion against the founders of NovaTech and AWS Mining for defrauding hundreds of thousands of investors.
+
+- **Bitcoin reserve bill moves forward.** A bill that would lock up US government-held bitcoin for 20 years has cleared committee and can now go to a full House vote, but time is short.
+
+- **Mining hijack.** An attacker used fake internet routes to send the work of more than a thousand bitcoin miners to an impostor pool for a short time.
+
+- **Privacy flaws.** A Bitcoin Core developer found that a tiny payment of under 35 cents can reveal the IP address behind a wallet. Separately, Zcash developers want to phase out an older privacy system as a precaution.
+
+- **Ripple valuations.** SEC filings show two funds valuing Ripple shares at $90 and $300, which is about 70 percent apart.
+
+---
+*Note: the BBC Business feed had no items from the last 24 hours, so nothing from it is included.*
